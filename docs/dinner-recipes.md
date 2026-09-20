@@ -9,6 +9,7 @@
 | [Chicken Curry with Vegetable Rice Meal Prep](#chicken-curry-vegetable-rice) | Candidate | 57 g           | —             |
 | [Mexican-Style Chicken & Rice](#mexican-style-chicken-rice)                  | Candidate | 46 g / meal    | 30–35 min     |
 | [Korean Chicken Stir-Fry Meal Prep](#korean-chicken-stir-fry)                | Candidate | —              | —             |
+| [Vegetable Paneer Stir-Fry](#vegetable-paneer-stir-fry)                      | Candidate | —              | —             |
 | [High-Protein Butter Chicken](#high-protein-butter-chicken)                  | Candidate | —              | —             |
 | [Chicken Salad Meal Prep](#chicken-salad-meal-prep)                          | Untested  | —              | ~25 min       |
 | [Mediterranean Chicken Pasta Salad](#mediterranean-chicken-pasta-salad)      | Untested  | 45 g / serving | 25 min + prep |
@@ -174,6 +175,41 @@
 - Method: Cook rice with water. Mix sauce ingredients. Sear sliced chicken; remove. Stir-fry onion and vegetables until crisp-tender. Return chicken, add sauce, and cook until coated and cooked through. Portion with rice; finish spring onion.
 - Note: Meal plan uses chicken breast only. Source uses 1,000 g flank steak for 5 meals; chicken is retained at the matching 400 g quantity for 2 meals. Source macros (475 kcal; 47 g protein; 41 g carbs; 17 g fat/meal) do not apply to the chicken version.
 - Source: [YouTube video](https://www.youtube.com/watch?v=d5cx1QWMGGM). Video visuals verified stir-fry strips, rice, broccoli, carrots, bell peppers, onion, sauce, spring onion, and four containers; exact amounts source description, scaled from 5 to 2 meals.
+
+
+
+### Vegetable Paneer Stir-Fry
+
+- YouTube: [Watch recipe](https://youtu.be/tmdzeFFc-1Q?si=3JyNY1rkIKPiSEWl)
+- Status: Candidate
+- Yield: amount not shown
+- Time: amount not shown
+- Macros: amount not shown
+- Tags: dinner, vegetarian, paneer, vegetables, stir-fry, Indian-inspired
+
+
+| Component | Ingredient | Quantity |
+| --- | --- | --- |
+| Stir-fry | Oil | 2 tsp |
+| Stir-fry | Ginger and garlic, chopped | 2 tsp |
+| Stir-fry | Carrots, chopped | 2 |
+| Stir-fry | Green capsicum, chopped | 1 |
+| Stir-fry | Yellow capsicum, chopped | 1 |
+| Stir-fry | Broccoli | 1 |
+| Stir-fry | Onion, chopped | 1 |
+| Stir-fry | Paneer | 200 g |
+| Seasoning | Black pepper powder | 1/2 tsp |
+| Seasoning | Salt | 1/2 tsp, then adjust |
+| Sauce | Soy sauce | 1 1/2 tsp |
+| Sauce | Red chilli sauce | 1 1/2 tsp |
+| Sauce | Vinegar | 1 tsp |
+
+
+- Method: Heat oil. Sauté chopped ginger and garlic. Add carrot, green capsicum, yellow capsicum, broccoli, onion, and paneer; stir-fry. Add black pepper, salt, soy sauce, red chilli sauce, and vinegar; toss until coated and hot.
+- Adaptation: Rebalanced for 200 g paneer. Vegetables are not scaled 4×; 2 carrots, 2 capsicums, 1 broccoli, and 1 onion keep this a paneer-forward stir-fry. Reduce salt because soy and chilli sauces add salt.
+- Source quantities: 50 g paneer; 2 carrots; 2 green capsicums; 1 yellow capsicum; 1 broccoli; 2 onions; 2 tsp oil; 2 tsp chopped ginger and garlic; 1/2 tsp black pepper; 1 tsp salt; 1 tsp each soy sauce, red chilli sauce, and vinegar.
+- Note: Yield, time, and macros not shown in video.
+- Source: [YouTube video](https://youtu.be/tmdzeFFc-1Q?si=3JyNY1rkIKPiSEWl). On-screen ingredient text visually verified from downloaded video.
 
 
 

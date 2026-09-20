@@ -20,6 +20,8 @@
 | [High-Protein Chicken Breakfast Burritos](#chicken-breakfast-burritos) | Candidate | 55–60 g / burrito | 45 min | meal-prep, freezer-friendly, breakfast, bulk-cook |
 | [Savoury Oat, Egg & Mozzarella Pancake](#savoury-oat-egg-mozzarella-pancake) | Candidate | — | 10 min | breakfast, savoury, oat, egg, cheese, pan-cooked |
 | [Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | 5 min | breakfast, savoury, egg, tortilla, cheese, pan-cooked |
+| [Guacamole](#guacamole) | Candidate | — | — | breakfast, savoury, avocado, dip |
+| [Vegetable Poha](#vegetable-poha) | Candidate | — | — | breakfast, savoury, poha, vegetarian, Indian |
 
 ## Recipes
 
@@ -221,6 +223,29 @@
 - Ingredients: 4 eggs; salt; black pepper; green onion; 2 tortillas; mozzarella cheese; bacon crumbles; spinach; tomato; cheese slices; unsalted butter.
 - Method: Season and cook the eggs in a pan. Place a tortilla over the egg, then add the fillings. Fold the tortilla over, butter the pan as needed, and cook both sides until lightly golden and the cheese melts.
 - Source: [Helly's Simple Recipe video](https://www.youtube.com/watch?v=gI5JKhoZbYs), ingredient list from video description.
+
+<a id="guacamole"></a>
+### Guacamole
+
+- Status: Candidate
+- Yield: amount not shown
+- Time: amount not shown
+- Tags: breakfast, savoury, avocado, dip
+- Ingredients: 1 ripe avocado; lemon/lime juice, 2–3 tbsp; 1/2 red/white onion, finely chopped; 1 jalapeño or green chilli, finely chopped; 1 tomato, cored and chopped; cilantro, 2–3 tbsp, finely chopped; salt, amount not shown.
+- Method: Mash avocado with lemon/lime juice. Fold in onion, chilli, tomato, and cilantro. Salt to taste.
+- Adaptation: Uses 1 avocado. Source uses 3; all other amounts retained as shown.
+- Source: [The Cooking Foodie — How to Make Guacamole](https://www.youtube.com/watch?v=K06J2pFY6yU&feature=youtu.be). On-screen text visually verified from downloaded video.
+
+<a id="vegetable-poha"></a>
+### Vegetable Poha
+
+- Status: Candidate
+- Yield: amount not shown
+- Time: amount not shown
+- Tags: breakfast, savoury, poha, vegetarian, Indian
+- Ingredients: thick poha, 3 cups; onion, 1 medium; potato, 1 medium; French beans, 1 handful; capsicum, 1/2; carrot, 1/2; sweet corn, 1/4 cup; green peas, 1/4 cup; oil, 2 tbsp; cumin seeds, 1/2 tsp; mustard seeds, 1/2 tsp; curry leaves, 15; green chilli, chopped, 3; peanuts, 1/4 cup optional; turmeric, 1/2 tsp; lemon juice, 1 lemon; sugar, 1 tsp, then adjust; fresh coriander, 1 handful chopped, plus garnish; salt, to taste, then adjust; hot water, a splash twice.
+- Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, chilli, and peanuts. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
+- Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
 
 ## Notes
 
