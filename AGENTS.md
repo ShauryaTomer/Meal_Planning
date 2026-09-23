@@ -1,7 +1,7 @@
 # Meal Planning
 
 - Read `docs/meal-prep.md`, then the relevant recipe file before answering.
-- Breakfast: `docs/breakfast-recipes.md`. Lunch/dinner: `docs/dinner-recipes.md`.
+- Breakfast: `docs/breakfast-recipes.md`. Lunch/dinner: `docs/dinner-recipes.md`. Snacks/sauces: `docs/snacks-recipes.md`.
 - Keep recipe format. Preserve source links, stated quantities, `amount not shown`, substitutions, yield, storage notes.
 - Do not add, edit, delete, or move recipes unless user explicitly approves that recipe and file.
 - Ask before changing meal-plan preferences or nutrition targets.

@@ -10,7 +10,7 @@ Extract recipe facts. Keep shared meal docs trustworthy.
 ## Before extraction
 
 1. Read `AGENTS.md`.
-2. Search `docs/breakfast-recipes.md` and `docs/dinner-recipes.md` for the recipe/video first. Reuse verified facts; do not re-extract without need.
+2. Search `docs/breakfast-recipes.md`, `docs/dinner-recipes.md`, and `docs/snacks-recipes.md` for the recipe/video first. Reuse verified facts; do not re-extract without need.
 3. Ask for a destination before saving a new recipe. Never modify a recipe file without explicit approval.
 
 ## Extract
