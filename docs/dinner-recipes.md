@@ -8,7 +8,6 @@
 | [Chicken Schezwan Rice Meal Prep](#chicken-schezwan-rice)                    | Candidate | 55 g / meal    | —             |
 | [Chicken Curry with Vegetable Rice Meal Prep](#chicken-curry-vegetable-rice) | Candidate | 57 g           | —             |
 | [Mexican-Style Chicken & Rice](#mexican-style-chicken-rice)                  | Candidate | 46 g / meal    | 30–35 min     |
-| [Korean Chicken Stir-Fry Meal Prep](#korean-chicken-stir-fry)                | Candidate | —              | —             |
 | [Vegetable Paneer Stir-Fry](#vegetable-paneer-stir-fry)                      | Candidate | —              | —             |
 | [High-Protein Butter Chicken](#high-protein-butter-chicken)                  | Candidate | —              | —             |
 | [Chicken Salad Meal Prep](#chicken-salad-meal-prep)                          | Untested  | —              | ~25 min       |
@@ -140,39 +139,6 @@
 - Method: Season diced chicken with spices, lime, oil, salt, and pepper. Sear 7–8 min; remove. Sauté onion and pepper; toast tomato paste 60 sec. Add washed rice, baked beans, and spices; toast 2 min. Add tomatoes, broth, bay leaf; cover and low-simmer 15–20 min. Fold chicken and cilantro through; cover 5 min. Portion into 4 containers; serve with lime.
 - Note: Uses 100 g baked beans instead of the source's black beans. Salt, pepper, and cilantro quantities not stated. Fibre is an ingredient-based estimate, not creator-stated.
 - Source: [YouTube video](https://www.youtube.com/watch?v=AaUAHHBXpFg). Visual frames verified ingredients, cooking order, and four-container yield; exact quantities from video description.
-
-
-
-### Korean Chicken Stir-Fry Meal Prep
-
-- YouTube: [Watch recipe](https://www.youtube.com/watch?v=d5cx1QWMGGM)
-- Status: Candidate
-- Yield: 2 meals
-- Tags: dinner, meal-prep, chicken, rice, Korean-inspired, high-protein
-
-
-| Component  | Ingredient                   | Quantity for 2 meals    |
-| ---------- | ---------------------------- | ----------------------- |
-| Stir-fry   | Skinless chicken breast, raw | 400 g                   |
-| Stir-fry   | Jasmine rice, dry            | 128 g (125 g practical) |
-| Stir-fry   | Water, for rice              | 160 ml                  |
-| Vegetables | Broccoli                     | 200 g                   |
-| Vegetables | Carrots                      | 120 g (125 g practical) |
-| Vegetables | Bell pepper                  | 1 large                 |
-| Vegetables | Onion                        | ½ medium-large          |
-| Sauce      | Reduced-sodium soy sauce     | 40 ml                   |
-| Sauce      | Gochujang                    | 16 g                    |
-| Sauce      | Honey                        | 10 g                    |
-| Sauce      | Sesame oil                   | 10 ml                   |
-| Sauce      | Rice vinegar                 | 12 ml                   |
-| Sauce      | Garlic                       | 2–3 cloves              |
-| Sauce      | Ginger                       | 0.8 tsp                 |
-| Garnish    | Spring onion                 | amount not shown        |
-
-
-- Method: Cook rice with water. Mix sauce ingredients. Sear sliced chicken; remove. Stir-fry onion and vegetables until crisp-tender. Return chicken, add sauce, and cook until coated and cooked through. Portion with rice; finish spring onion.
-- Note: Meal plan uses chicken breast only. Source uses 1,000 g flank steak for 5 meals; chicken is retained at the matching 400 g quantity for 2 meals. Source macros (475 kcal; 47 g protein; 41 g carbs; 17 g fat/meal) do not apply to the chicken version.
-- Source: [YouTube video](https://www.youtube.com/watch?v=d5cx1QWMGGM). Video visuals verified stir-fry strips, rice, broccoli, carrots, bell peppers, onion, sauce, spring onion, and four containers; exact amounts source description, scaled from 5 to 2 meals.
 
 
 
