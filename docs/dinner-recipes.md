@@ -33,26 +33,26 @@
 - Tags: dinner, meal-prep, chicken, rice, high-protein
 
 
-| Component   | Ingredient           | Quantity         |
-| ----------- | -------------------- | ---------------- |
-| Chicken mix | Oil                  | 1 tbsp           |
-| Chicken mix | Garlic               | 1 tbsp           |
-| Chicken mix | Diced chicken breast | 600 g            |
-| Chicken mix | Salt                 | amount not shown |
-| Chicken mix | Black pepper         | amount not shown |
-| Chicken mix | Capsicums, diced     | 3                |
-| Chicken mix | Onion, diced         | 1                |
-| Chicken mix | Schezwan sauce       | 4 tbsp           |
-| Chicken mix | Spring onion         | amount not shown |
-| Rice        | Oil                  | 1 tsp            |
-| Rice        | Garlic               | 1 tbsp           |
-| Rice        | Eggs                 | 3                |
-| Rice        | Cooked rice          | 450 g            |
-| Rice        | Vinegar              | amount not shown |
-| Rice        | Chilli sauce         | amount not shown |
-| Rice        | Soy sauce            | amount not shown |
-| Rice        | Salt                 | amount not shown |
-| Rice        | Spring onion         | amount not shown |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken mix | Oil | 1 tbsp | — | — |
+| Chicken mix | Garlic | 1 tbsp | — | — |
+| Chicken mix | Diced chicken breast | 600 g | — | — |
+| Chicken mix | Salt | amount not shown | — | — |
+| Chicken mix | Black pepper | amount not shown | — | — |
+| Chicken mix | Capsicums, diced | 3 | — | — |
+| Chicken mix | Onion, diced | 1 | — | — |
+| Chicken mix | Schezwan sauce | 4 tbsp | — | — |
+| Chicken mix | Spring onion | amount not shown | — | — |
+| Rice | Oil | 1 tsp | — | — |
+| Rice | Garlic | 1 tbsp | — | — |
+| Rice | Eggs | 3 | — | — |
+| Rice | Cooked rice | 450 g | — | — |
+| Rice | Vinegar | amount not shown | — | — |
+| Rice | Chilli sauce | amount not shown | — | — |
+| Rice | Soy sauce | amount not shown | — | — |
+| Rice | Salt | amount not shown | — | — |
+| Rice | Spring onion | amount not shown | — | — |
 
 
 - Method: Fry garlic in 1 tbsp oil. Add chicken, salt, and black pepper; cook through. Add capsicum and onion; stir-fry. Add Schezwan sauce and spring onion; set aside. Fry garlic in 1 tsp oil; scramble eggs. Add rice, vinegar, chilli sauce, soy sauce, salt, and spring onion. Portion with chicken mixture.
@@ -70,29 +70,29 @@
 - Tags: dinner, meal-prep, chicken, rice, high-protein
 
 
-| Component      | Ingredient          | Quantity for 4 meals         |
-| -------------- | ------------------- | ---------------------------- |
-| Chicken        | Boneless chicken    | 800 g                        |
-| Chicken        | Curd                | 200 g                        |
-| Chicken        | Ginger-garlic paste | amount not shown             |
-| Chicken        | Turmeric            | amount not shown             |
-| Chicken        | Red chilli powder   | amount not shown             |
-| Chicken        | Coriander powder    | amount not shown             |
-| Chicken        | Oil, for grilling   | as needed                    |
-| Vegetable rice | Boiled rice         | 600 g                      |
-| Vegetable rice | Salt                | amount not shown           |
-| Vegetable rice | Black pepper        | amount not shown           |
-| Salad          | Cucumber            | amount not shown           |
-| Curry          | Onions              | 4                            |
-| Curry          | Tomatoes            | amount not shown             |
-| Curry          | Garlic              | amount not shown             |
-| Curry          | Green chilli        | amount not shown             |
-| Curry          | Coriander powder    | amount not shown             |
-| Curry          | Turmeric            | amount not shown             |
-| Curry          | Salt                | amount not shown             |
-| Curry          | Water               | as needed                    |
-| Curry          | Fresh coriander     | amount not shown             |
-| Curry          | Habanero Tomato Salsa | 250 ml                     |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken | Boneless chicken | 800 g | — | — |
+| Chicken | Curd | 200 g | — | — |
+| Chicken | Ginger-garlic paste | amount not shown | — | — |
+| Chicken | Turmeric | amount not shown | — | — |
+| Chicken | Red chilli powder | amount not shown | — | — |
+| Chicken | Coriander powder | amount not shown | — | — |
+| Chicken | Oil, for grilling | as needed | — | — |
+| Vegetable rice | Boiled rice | 600 g | — | — |
+| Vegetable rice | Salt | amount not shown | — | — |
+| Vegetable rice | Black pepper | amount not shown | — | — |
+| Salad | Cucumber | amount not shown | — | — |
+| Curry | Onions | 4 | — | — |
+| Curry | Tomatoes | amount not shown | — | — |
+| Curry | Garlic | amount not shown | — | — |
+| Curry | Green chilli | amount not shown | — | — |
+| Curry | Coriander powder | amount not shown | — | — |
+| Curry | Turmeric | amount not shown | — | — |
+| Curry | Salt | amount not shown | — | — |
+| Curry | Water | as needed | — | — |
+| Curry | Fresh coriander | amount not shown | — | — |
+| Curry | Habanero Tomato Salsa | 250 ml | — | — |
 
 
 - Method: Marinate chicken in curd, ginger-garlic paste, turmeric, red chilli powder, and coriander powder. Oil a grill pan; cook chicken through. Boil rice with salt and black pepper. For curry, cook onions, tomatoes, garlic, green chilli, coriander powder, turmeric, and salt until soft. Blend smooth, return to pan, thin with water, then simmer with cooked chicken. Finish coriander. Serve with boiled rice and cucumber salad (cut cucumber, keep in box with meals).
@@ -113,27 +113,27 @@
 - Tags: dinner, meal-prep, chicken, rice, Mexican-style, high-protein
 
 
-| Component  | Ingredient      | Quantity         |
-| ---------- | --------------- | ---------------- |
-| Chicken    | Chicken breast  | 750 g            |
-| Chicken    | Oregano         | 2 tsp            |
-| Chicken    | Garlic powder   | 1 tsp            |
-| Chicken    | Smoked paprika  | 2 tsp            |
-| Chicken    | Cumin           | 1 tsp            |
-| Chicken    | Chilli powder   | 1 tsp            |
-| Chicken    | Lime, juiced    | 1                |
-| Chicken    | Olive oil       | 2 tsp            |
-| Chicken    | Salt            | amount not shown |
-| Chicken    | Pepper          | amount not shown |
-| Rice & veg | Onion           | 1                |
-| Rice & veg | Red bell pepper | 1                |
-| Rice & veg | Baked beans     | 100 g            |
-| Rice & veg | Long-grain rice | 210 g            |
-| Rice & veg | Diced tomatoes  | 400 g            |
-| Rice & veg | Tomato paste    | 1 tbsp           |
-| Rice & veg | Chicken broth   | 350 ml           |
-| Rice & veg | Bay leaf        | 1                |
-| Rice & veg | Cilantro        | amount not shown |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken | Chicken breast | 750 g | — | — |
+| Chicken | Oregano | 2 tsp | — | — |
+| Chicken | Garlic powder | 1 tsp | — | — |
+| Chicken | Smoked paprika | 2 tsp | — | — |
+| Chicken | Cumin | 1 tsp | — | — |
+| Chicken | Chilli powder | 1 tsp | — | — |
+| Chicken | Lime, juiced | 1 | — | — |
+| Chicken | Olive oil | 2 tsp | — | — |
+| Chicken | Salt | amount not shown | — | — |
+| Chicken | Pepper | amount not shown | — | — |
+| Rice & veg | Onion | 1 | — | — |
+| Rice & veg | Red bell pepper | 1 | — | — |
+| Rice & veg | Baked beans | 100 g | — | — |
+| Rice & veg | Long-grain rice | 210 g | — | — |
+| Rice & veg | Diced tomatoes | 400 g | — | — |
+| Rice & veg | Tomato paste | 1 tbsp | — | — |
+| Rice & veg | Chicken broth | 350 ml | — | — |
+| Rice & veg | Bay leaf | 1 | — | — |
+| Rice & veg | Cilantro | amount not shown | — | — |
 
 
 - Method: Season diced chicken with spices, lime, oil, salt, and pepper. Sear 7–8 min; remove. Sauté onion and pepper; toast tomato paste 60 sec. Add washed rice, baked beans, and spices; toast 2 min. Add tomatoes, broth, bay leaf; cover and low-simmer 15–20 min. Fold chicken and cilantro through; cover 5 min. Portion into 4 containers; serve with lime.
@@ -152,21 +152,21 @@
 - Tags: dinner, vegetarian, paneer, vegetables, stir-fry, Indian-inspired
 
 
-| Component | Ingredient | Quantity |
-| --- | --- | --- |
-| Stir-fry | Oil | 2 tsp |
-| Stir-fry | Ginger and garlic, chopped | 2 tsp |
-| Stir-fry | Carrots, chopped | 2 |
-| Stir-fry | Green capsicum, chopped | 1 |
-| Stir-fry | Yellow capsicum, chopped | 1 |
-| Stir-fry | Broccoli | 1 |
-| Stir-fry | Onion, chopped | 1 |
-| Stir-fry | Paneer | 200 g |
-| Seasoning | Black pepper powder | 1/2 tsp |
-| Seasoning | Salt | 1/2 tsp, then adjust |
-| Sauce | Soy sauce | 1 1/2 tsp |
-| Sauce | Red chilli sauce | 1 1/2 tsp |
-| Sauce | Vinegar | 1 tsp |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Stir-fry | Oil | 2 tsp | — | — |
+| Stir-fry | Ginger and garlic, chopped | 2 tsp | — | — |
+| Stir-fry | Carrots, chopped | 2 | — | — |
+| Stir-fry | Green capsicum, chopped | 1 | — | — |
+| Stir-fry | Yellow capsicum, chopped | 1 | — | — |
+| Stir-fry | Broccoli | 1 | — | — |
+| Stir-fry | Onion, chopped | 1 | — | — |
+| Stir-fry | Paneer | 200 g | — | — |
+| Seasoning | Black pepper powder | 1/2 tsp | — | — |
+| Seasoning | Salt | 1/2 tsp, then adjust | — | — |
+| Sauce | Soy sauce | 1 1/2 tsp | — | — |
+| Sauce | Red chilli sauce | 1 1/2 tsp | — | — |
+| Sauce | Vinegar | 1 tsp | — | — |
 
 
 - Method: Heat oil. Sauté chopped ginger and garlic. Add carrot, green capsicum, yellow capsicum, broccoli, onion, and paneer; stir-fry. Add black pepper, salt, soy sauce, red chilli sauce, and vinegar; toss until coated and hot.
@@ -185,23 +185,23 @@
 - Tags: dinner, meal-prep, chicken, Indian-inspired, high-protein
 
 
-| Component | Ingredient                   | Quantity for 2 meals |
-| --------- | ---------------------------- | -------------------- |
-| Chicken   | Skinless chicken breast, raw | 400 g                |
-| Chicken   | Greek yogurt, 0.2%           | 50 g                 |
-| Sauce     | Onion                        | 100 g                |
-| Sauce     | Sieved tomatoes              | 200 g                |
-| Sauce     | Amul Half n Half             | 100 g                |
-| Sauce     | Laughing Cow cream cheese    | 21 g (~1½ cubes)     |
-| Sauce     | Oil                          | 3 g                  |
-| Spices    | Garam masala                 | 5 g                  |
-| Spices    | Paprika                      | 5 g                  |
-| Spices    | Turmeric                     | 4 g                  |
-| Spices    | Garlic                       | amount not shown     |
-| Spices    | Cayenne pepper               | amount not shown     |
-| Spices    | Salt                         | amount not shown     |
-| Spices    | Black pepper                 | amount not shown     |
-| Finish    | Butter                       | amount not shown     |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken | Skinless chicken breast, raw | 400 g | — | — |
+| Chicken | Greek yogurt, 0.2% | 50 g | — | — |
+| Sauce | Onion | 100 g | — | — |
+| Sauce | Sieved tomatoes | 200 g | — | — |
+| Sauce | Amul Half n Half | 100 g | — | — |
+| Sauce | Laughing Cow cream cheese | 21 g (~1½ cubes) | — | — |
+| Sauce | Oil | 3 g | — | — |
+| Spices | Garam masala | 5 g | — | — |
+| Spices | Paprika | 5 g | — | — |
+| Spices | Turmeric | 4 g | — | — |
+| Spices | Garlic | amount not shown | — | — |
+| Spices | Cayenne pepper | amount not shown | — | — |
+| Spices | Salt | amount not shown | — | — |
+| Spices | Black pepper | amount not shown | — | — |
+| Finish | Butter | amount not shown | — | — |
 
 
 - Method: Marinate chicken with yogurt and spices. Sear chicken; set aside. Cook onion with garlic and spices. Add sieved tomatoes; simmer smooth. Stir in Half n Half, cream cheese, and butter. Return chicken; simmer until cooked through. Adjust salt and pepper.
@@ -219,17 +219,17 @@
 - Tags: dinner, meal-prep, chicken, salad, cold
 
 
-| Component | Ingredient                             | Quantity         |
-| --------- | -------------------------------------- | ---------------- |
-| Salad     | Cooked chicken                         | amount not shown |
-| Salad     | Salad leaves                           | 150–200 g        |
-| Salad     | Cherry tomatoes                        | 150 g            |
-| Salad     | Beetroot, chopped                      | ~90 g            |
-| Salad     | Cucumber                               | 70 g             |
-| Salad     | Spring onions, chopped                 | 2                |
-| Salad     | Black olives                           | 50 g             |
-| Salad     | Lemon wedges                           | as needed        |
-| Chicken   | Yogurt marinade or preferred seasoning | as needed        |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Salad | Cooked chicken | amount not shown | — | — |
+| Salad | Salad leaves | 150–200 g | — | — |
+| Salad | Cherry tomatoes | 150 g | — | — |
+| Salad | Beetroot, chopped | ~90 g | — | — |
+| Salad | Cucumber | 70 g | — | — |
+| Salad | Spring onions, chopped | 2 | — | — |
+| Salad | Black olives | 50 g | — | — |
+| Salad | Lemon wedges | as needed | — | — |
+| Chicken | Yogurt marinade or preferred seasoning | as needed | — | — |
 
 
 - Excluded: capers, red pesto, breadcrumbs.
@@ -248,31 +248,31 @@
 - Tags: dinner, meal-prep, chicken, pasta, Mediterranean-style
 
 
-| Component   | Ingredient                       | Quantity         |
-| ----------- | -------------------------------- | ---------------- |
-| Chicken     | Boneless skinless chicken breast | 681 g            |
-| Chicken     | Oil                              | 2 tsp / 10 g     |
-| Chicken     | Lemon juice                      | 1⅓ tbsp / 20 g   |
-| Chicken     | Salt                             | ½ tsp / 3 g      |
-| Chicken     | Onion powder                     | ½ tsp / 2 g      |
-| Chicken     | Garlic powder                    | ½ tsp / 2 g      |
-| Chicken     | Cumin                            | ½ tsp / 2 g      |
-| Chicken     | Dried oregano                    | 1 tsp / 1 g      |
-| Chicken     | Cayenne pepper                   | ¼ tsp / 1 g      |
-| Pasta salad | Pasta                            | 227 g            |
-| Pasta salad | English cucumber                 | 150 g            |
-| Pasta salad | Grape tomatoes                   | 227 g            |
-| Pasta salad | Red onion                        | 125 g            |
-| Pasta salad | Baby spinach                     | 150 g            |
-| Pasta salad | Crumbled feta                    | 112 g            |
-| Pasta salad | Cannellini beans                 | amount not shown |
-| Dressing    | Olive oil                        | 2 tbsp / 30 g    |
-| Dressing    | Red-wine vinegar                 | ¼ cup / 60 g     |
-| Dressing    | Lemon juice                      | 1 tbsp / 15 g    |
-| Dressing    | Minced garlic                    | 2 cloves / 10 g  |
-| Dressing    | Dried oregano                    | 2 tsp / 2 g      |
-| Dressing    | Salt                             | ⅓ tsp / 2 g      |
-| Dressing    | Pepper                           | ½ tsp / 2 g      |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken | Boneless skinless chicken breast | 681 g | — | — |
+| Chicken | Oil | 2 tsp / 10 g | — | — |
+| Chicken | Lemon juice | 1⅓ tbsp / 20 g | — | — |
+| Chicken | Salt | ½ tsp / 3 g | — | — |
+| Chicken | Onion powder | ½ tsp / 2 g | — | — |
+| Chicken | Garlic powder | ½ tsp / 2 g | — | — |
+| Chicken | Cumin | ½ tsp / 2 g | — | — |
+| Chicken | Dried oregano | 1 tsp / 1 g | — | — |
+| Chicken | Cayenne pepper | ¼ tsp / 1 g | — | — |
+| Pasta salad | Pasta | 227 g | — | — |
+| Pasta salad | English cucumber | 150 g | — | — |
+| Pasta salad | Grape tomatoes | 227 g | — | — |
+| Pasta salad | Red onion | 125 g | — | — |
+| Pasta salad | Baby spinach | 150 g | — | — |
+| Pasta salad | Crumbled feta | 112 g | — | — |
+| Pasta salad | Cannellini beans | amount not shown | — | — |
+| Dressing | Olive oil | 2 tbsp / 30 g | — | — |
+| Dressing | Red-wine vinegar | ¼ cup / 60 g | — | — |
+| Dressing | Lemon juice | 1 tbsp / 15 g | — | — |
+| Dressing | Minced garlic | 2 cloves / 10 g | — | — |
+| Dressing | Dried oregano | 2 tsp / 2 g | — | — |
+| Dressing | Salt | ⅓ tsp / 2 g | — | — |
+| Dressing | Pepper | ½ tsp / 2 g | — | — |
 
 
 - Method: Heat oven to 204°C / 400°F. Coat chicken with chicken ingredients; bake 25 min. Cook and cool pasta. Whisk dressing. Chop vegetables; combine pasta, sliced chicken, vegetables, spinach, beans, feta, and dressing. Portion into 4 containers.
@@ -289,40 +289,40 @@
 - Tags: dinner, vegetarian, paneer, peas, Indian
 
 
-| Component | Ingredient | Quantity |
-| --- | --- | --- |
-| Paste | Oil | 1 tbsp |
-| Paste | Mustard oil | 2–3 tbsp |
-| Paste | Large onions, roughly sliced | 2 |
-| Paste | Salt | to taste |
-| Paste | Garlic cloves, roughly chopped | 6 |
-| Paste | Ginger, peeled and roughly chopped | 2-inch piece |
-| Paste | Green chillies, less spicy, roughly chopped | 2 |
-| Paste | Coriander leaves, roughly chopped | 2–3 tbsp |
-| Paste | Turmeric powder | 1 tsp |
-| Paste | Degi red chilli powder | 1/2 tbsp |
-| Paste | Asafoetida | pinch, optional |
-| Paste | Coriander powder | 1 tsp |
-| Paste | Curd, beaten | 2 heaped tbsp |
-| Masala | Cumin seeds | 1 tsp |
-| Masala | Black peppercorns | 1/2 tbsp |
-| Masala | Coriander seeds | 1 heaped tbsp |
-| Masala | Green cardamom | 5–6 |
-| Masala | Salt | to taste |
-| Masala | Dry fenugreek leaves | 2 tbsp |
-| Curry | Ghee | 2 tbsp |
-| Curry | Cumin seeds | 1/4 tsp |
-| Curry | Prepared paste | all prepared paste |
-| Curry | Fresh tomato puree | 1 cup |
-| Curry | Water | 2–3 cups |
-| Curry | Tender coriander stems, finely chopped | 1 tsp |
-| Curry | Water | 1 cup |
-| Curry | Fresh green peas | 1 1/4 cups |
-| Curry | Paneer, cubed | 700 g |
-| Curry | Salt | to taste |
-| Curry | Prepared masala | 1 tbsp |
-| Curry | Salt | to taste |
-| Garnish | Coriander sprig | amount not shown |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Paste | Oil | 1 tbsp | — | — |
+| Paste | Mustard oil | 2–3 tbsp | — | — |
+| Paste | Large onions, roughly sliced | 2 | — | — |
+| Paste | Salt | to taste | — | — |
+| Paste | Garlic cloves, roughly chopped | 6 | — | — |
+| Paste | Ginger, peeled and roughly chopped | 2-inch piece | — | — |
+| Paste | Green chillies, less spicy, roughly chopped | 2 | — | — |
+| Paste | Coriander leaves, roughly chopped | 2–3 tbsp | — | — |
+| Paste | Turmeric powder | 1 tsp | — | — |
+| Paste | Degi red chilli powder | 1/2 tbsp | — | — |
+| Paste | Asafoetida | pinch | — | optional |
+| Paste | Coriander powder | 1 tsp | — | — |
+| Paste | Curd, beaten | 2 heaped tbsp | — | — |
+| Masala | Cumin seeds | 1 tsp | — | — |
+| Masala | Black peppercorns | 1/2 tbsp | — | — |
+| Masala | Coriander seeds | 1 heaped tbsp | — | — |
+| Masala | Green cardamom | 5–6 | — | — |
+| Masala | Salt | to taste | — | — |
+| Masala | Dry fenugreek leaves | 2 tbsp | — | — |
+| Curry | Ghee | 2 tbsp | — | — |
+| Curry | Cumin seeds | 1/4 tsp | — | — |
+| Curry | Prepared paste | all prepared paste | — | — |
+| Curry | Fresh tomato puree | 1 cup | — | — |
+| Curry | Water | 2–3 cups | — | — |
+| Curry | Tender coriander stems, finely chopped | 1 tsp | — | — |
+| Curry | Water | 1 cup | — | — |
+| Curry | Fresh green peas | 1 1/4 cups | — | — |
+| Curry | Paneer, cubed | 700 g | — | — |
+| Curry | Salt | to taste | — | — |
+| Curry | Prepared masala | 1 tbsp | — | — |
+| Curry | Salt | to taste | — | — |
+| Garnish | Coriander sprig | amount not shown | — | — |
 
 
 - Method: For the paste, heat oil and mustard oil. Cook onions with salt, garlic, ginger, chillies, coriander leaves, turmeric, chilli powder, optional asafoetida, coriander powder, and curd until softened; blend smooth. Dry-roast the masala ingredients and grind. Heat ghee; bloom cumin. Add prepared paste, tomato puree, and water; simmer. Add coriander stems, further water, peas, paneer, prepared masala, and salt. Simmer until peas are tender and paneer is hot. Garnish with coriander.
@@ -388,35 +388,35 @@
 - Tags: dinner, meal-prep, chicken, rice, shawarma-inspired, high-protein
 
 
-| Component | Ingredient | Quantity for 6 meals |
-| --- | --- | --- |
-| Chicken | Boneless skinless chicken thighs | 1.2 kg |
-| Chicken | Greek yogurt | 2.4 tbsp |
-| Chicken | Olive oil | 1.2 tbsp |
-| Chicken | Lemon juice | 1.8 tbsp |
-| Chicken | Garlic, grated | 4 cloves |
-| Chicken | Paprika | 2.4 tsp |
-| Chicken | Ground cumin | 1.8 tsp |
-| Chicken | Ground coriander | 1.2 tsp |
-| Chicken | Turmeric | 0.6 tsp |
-| Chicken | Salt, pepper | amount not shown |
-| Lemon garlic rice | Jasmine rice, dry | 360 g |
-| Lemon garlic rice | Water | 660 ml |
-| Lemon garlic rice | Garlic, finely grated | 1–2 cloves |
-| Lemon garlic rice | Lemon zest | ~⅔ lemon |
-| Lemon garlic rice | Lemon juice | 1.2 tbsp |
-| Lemon garlic rice | Flat-leaf parsley | 6 g |
-| Lemon garlic rice | Olive oil | amount not shown |
-| Lemon garlic rice | Salt, pepper | amount not shown |
-| Fresh salad | Cherry tomatoes | 240 g |
-| Fresh salad | Cucumber | ~⅔ cucumber |
-| Fresh salad | Iceberg lettuce | 145 g |
-| Fresh salad | Lemon juice | 2.4 tbsp |
-| Fresh salad | Salt, pepper | amount not shown |
-| Garlic yogurt sauce | Greek yogurt | 240 g |
-| Garlic yogurt sauce | Garlic, grated | 1–2 cloves |
-| Garlic yogurt sauce | Lemon juice | 1.2 tbsp |
-| Garlic yogurt sauce | Salt, pepper | amount not shown |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Chicken | Boneless skinless chicken thighs | 1.2 kg | — | — |
+| Chicken | Greek yogurt | 2.4 tbsp | — | — |
+| Chicken | Olive oil | 1.2 tbsp | — | — |
+| Chicken | Lemon juice | 1.8 tbsp | — | — |
+| Chicken | Garlic, grated | 4 cloves | — | — |
+| Chicken | Paprika | 2.4 tsp | — | — |
+| Chicken | Ground cumin | 1.8 tsp | — | — |
+| Chicken | Ground coriander | 1.2 tsp | — | — |
+| Chicken | Turmeric | 0.6 tsp | — | — |
+| Chicken | Salt, pepper | amount not shown | — | — |
+| Lemon garlic rice | Jasmine rice, dry | 360 g | — | — |
+| Lemon garlic rice | Water | 660 ml | — | — |
+| Lemon garlic rice | Garlic, finely grated | 1–2 cloves | — | — |
+| Lemon garlic rice | Lemon zest | ~⅔ lemon | — | — |
+| Lemon garlic rice | Lemon juice | 1.2 tbsp | — | — |
+| Lemon garlic rice | Flat-leaf parsley | 6 g | — | — |
+| Lemon garlic rice | Olive oil | amount not shown | — | — |
+| Lemon garlic rice | Salt, pepper | amount not shown | — | — |
+| Fresh salad | Cherry tomatoes | 240 g | — | — |
+| Fresh salad | Cucumber | ~⅔ cucumber | — | — |
+| Fresh salad | Iceberg lettuce | 145 g | — | — |
+| Fresh salad | Lemon juice | 2.4 tbsp | — | — |
+| Fresh salad | Salt, pepper | amount not shown | — | — |
+| Garlic yogurt sauce | Greek yogurt | 240 g | — | — |
+| Garlic yogurt sauce | Garlic, grated | 1–2 cloves | — | — |
+| Garlic yogurt sauce | Lemon juice | 1.2 tbsp | — | — |
+| Garlic yogurt sauce | Salt, pepper | amount not shown | — | — |
 
 
 - Method: Mix chicken marinade; coat chicken and rest ≥20 min. Rinse rice; cook with water and salt—boil, then cover on low 12 min; rest 10 min. Mix hot rice with olive oil, garlic, zest, lemon juice, and parsley. Pan-cook chicken medium-high, 5–6 min per side; rest and slice. Salt cucumber and tomatoes; add lemon. Add lettuce before serving. Mix sauce. Divide rice and chicken between 6 containers; store salad and sauce separately.
@@ -435,32 +435,32 @@
 - Tags: dinner, chicken, pasta, red sauce, high-protein
 
 
-| Component | Ingredient | Quantity for 4 servings |
-| --------- | ---------- | ----------------------- |
-| Pasta | Dried pasta | 240 g (60 g per serving) |
-| Pasta | Hot water | as required |
-| Pasta | Salt | 1 tsp |
-| Chicken | Chicken breast, diced | 400 g |
-| Chicken | Garlic powder | 1/2 tsp |
-| Chicken | Onion powder | 1/2 tsp |
-| Chicken | Paprika | 1/2 tsp |
-| Chicken | Salt and pepper | to taste |
-| Chicken | Olive oil | 2 tbsp |
-| Sauce | Onion, chopped | 2 small / 1/2 cup |
-| Sauce | Garlic, minced | 6 large cloves |
-| Sauce | Chilli flakes | optional |
-| Sauce | Tomatoes, roughly sliced | 6 |
-| Sauce | Salt | 2 tsp |
-| Sauce | Sugar | 2 tsp |
-| Sauce | Tomato paste | 4–6 tbsp |
-| Sauce | Amul Half & Half cream | 60 ml |
-| Sauce | Laughing Cow cream cheese | 4 wedges (76 g) |
-| Sauce | Black pepper | a pinch |
-| Sauce | Dried oregano and basil | 1/2 tsp |
-| Sauce | Pasta water | as required |
-| Sauce | Olive oil | 2 tbsp |
-| Finish | Parmesan cheese | 50 g |
-| Finish | Parsley or basil | to garnish |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Pasta | Dried pasta | 240 g (60 g per serving) | — | — |
+| Pasta | Hot water | as required | — | — |
+| Pasta | Salt | 1 tsp | — | — |
+| Chicken | Chicken breast, diced | 400 g | — | — |
+| Chicken | Garlic powder | 1/2 tsp | — | — |
+| Chicken | Onion powder | 1/2 tsp | — | — |
+| Chicken | Paprika | 1/2 tsp | — | — |
+| Chicken | Salt and pepper | to taste | — | — |
+| Chicken | Olive oil | 2 tbsp | — | — |
+| Sauce | Onion, chopped | 2 small / 1/2 cup | — | — |
+| Sauce | Garlic, minced | 6 large cloves | — | — |
+| Sauce | Chilli flakes | Amount not shown | — | optional |
+| Sauce | Tomatoes, roughly sliced | 6 | — | — |
+| Sauce | Salt | 2 tsp | — | — |
+| Sauce | Sugar | 2 tsp | — | — |
+| Sauce | Tomato paste | 4–6 tbsp | — | — |
+| Sauce | Amul Half & Half cream | 60 ml | — | — |
+| Sauce | Laughing Cow cream cheese | 4 wedges (76 g) | — | — |
+| Sauce | Black pepper | a pinch | — | — |
+| Sauce | Dried oregano and basil | 1/2 tsp | — | — |
+| Sauce | Pasta water | as required | — | — |
+| Sauce | Olive oil | 2 tbsp | — | — |
+| Finish | Parmesan cheese | 50 g | — | — |
+| Finish | Parsley or basil | to garnish | — | — |
 
 
 - Method: Boil pasta in salted water until al dente, about 10–11 min per batch; drain and reserve pasta water. Do not add oil to pasta. Season chicken; cook in batches in the olive oil until cooked through, then set aside. Cook onion and garlic in the sauce olive oil. Add chilli flakes, tomatoes, salt, sugar, tomato paste, pepper, oregano, and basil; cook until softened, then blend or crush smooth. Lower heat; stir in Half & Half and cream cheese. Add pasta water as required to reach desired consistency. Return chicken and pasta; toss with parmesan. Garnish with parsley or basil.

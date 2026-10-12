@@ -21,16 +21,16 @@
 - Tags: snack, sauce, dip, vegan, cucumber
 
 
-| Component | Ingredient                              | Quantity         |
-| --------- | --------------------------------------- | ---------------- |
-| Tzatziki  | Cucumber, unpeeled, grated              | amount not shown |
-| Tzatziki  | Plant-based yogurt (cashew in video)    | amount not shown |
-| Tzatziki  | Garlic, pressed                         | amount not shown |
-| Tzatziki  | Lemon juice                             | amount not shown |
-| Tzatziki  | Olive oil                               | amount not shown |
-| Tzatziki  | Fresh dill, chopped                     | amount not shown |
-| Garnish   | Olive oil                               | amount not shown |
-| Garnish   | Dill sprigs                             | amount not shown |
+| Component | Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- | --- |
+| Tzatziki | Cucumber, unpeeled, grated | amount not shown | — | — |
+| Tzatziki | Plant-based yogurt (cashew in video) | amount not shown | — | — |
+| Tzatziki | Garlic, pressed | amount not shown | — | — |
+| Tzatziki | Lemon juice | amount not shown | — | — |
+| Tzatziki | Olive oil | amount not shown | — | — |
+| Tzatziki | Fresh dill, chopped | amount not shown | — | — |
+| Garnish | Olive oil | amount not shown | — | — |
+| Garnish | Dill sprigs | amount not shown | — | — |
 
 
 - Method: Grate unpeeled cucumber. Squeeze out liquid in a nut-milk bag or cloth. Add squeezed cucumber and yogurt to a bowl. Press in garlic. Squeeze in lemon juice. Add olive oil. Mix, then stir in chopped dill. Garnish with olive oil and dill sprigs.
