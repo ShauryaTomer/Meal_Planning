@@ -19,7 +19,7 @@
 | [Dark Chocolate Raspberry Overnight Oats](#dark-chocolate-raspberry-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep |
 | [High-Protein Chicken Breakfast Burritos](#chicken-breakfast-burritos) | Candidate | 55–60 g / burrito | 45 min | meal-prep, freezer-friendly, breakfast, bulk-cook |
 | [Savoury Oat, Egg & Mozzarella Pancake](#savoury-oat-egg-mozzarella-pancake) | Candidate | — | 10 min | breakfast, savoury, oat, egg, cheese, pan-cooked |
-| [Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | 5 min | breakfast, savoury, egg, tortilla, cheese, pan-cooked |
+| [Chicken Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | amount not shown | breakfast, savoury, chicken, egg, tortilla, cheese |
 | [Guacamole](#guacamole) | Candidate | — | — | breakfast, savoury, avocado, dip |
 | [Vegetable Poha](#vegetable-poha) | Candidate | — | — | breakfast, savoury, poha, vegetarian, Indian |
 
@@ -32,7 +32,17 @@
 - Macros: 477 kcal; 56 g carbs; 12 g fat; 33 g protein. User-stated, using cow's milk.
 - Yield: 1 serving
 - Tags: breakfast, sweet, bread, egg
-- Ingredients: 4 slices sandwich bread; 1 egg; 150 g egg whites; 100 g cow's milk; 10–20 g sweetener; pinch salt; cinnamon.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Sandwich bread | 4 slices | — | — |
+| Egg | 1 | — | — |
+| Egg whites | 150 g | — | — |
+| Cow's milk | 100 g | — | — |
+| Sweetener | 10–20 g | — | — |
+| Salt | Pinch | — | — |
+| Cinnamon | Amount not shown | — | — |
 - Method: Whisk egg, egg whites, milk, sweetener, salt, and cinnamon. Soak bread briefly. Pan-cook until both sides are golden and centre is cooked.
 
 <a id="vegetable-oats-omelette"></a>
@@ -45,23 +55,23 @@
 - Tags: breakfast, egg, oats, vegetarian, meal-prep, Indian
 - Ingredients:
 
-  | Ingredient | Amount |
-  | --- | --- |
-  | Oats, blended into a fine powder | 40 g |
-  | Milk | Amount not shown |
-  | Water | Amount not shown |
-  | Eggs, without shell | ~150 g |
-  | Capsicum, finely chopped | 1 capsicum, weight not shown |
-  | Tomato, finely chopped | 1 tomato, weight not shown |
-  | Onion, finely chopped | Amount not shown |
-  | Green chillies, finely chopped | Amount not shown |
-  | Coriander leaves, finely chopped | ~8 g |
-  | Grated carrot | ~15 g |
-  | Cheese | — |
-  | Salt for eggs | ~3 g |
-  | Salt for oat batter | ~1.5 g, or to taste |
-  | Black pepper | ~0.5 g |
-  | Oil for pan-cooking | Amount not shown |
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Oats | 40 g | Blended into a fine powder | — |
+| Milk | Amount not shown | — | — |
+| Water | Amount not shown | For dosa-like batter | — |
+| Eggs | ~150 g | Without shell | — |
+| Capsicum | 1 | Finely chopped; weight not shown | — |
+| Tomato | 1 | Finely chopped; weight not shown | — |
+| Onion | Amount not shown | Finely chopped | — |
+| Green chillies | Amount not shown | Finely chopped | — |
+| Coriander leaves | ~8 g | Finely chopped | — |
+| Carrot | ~15 g | Grated | — |
+| Cheese | — | — | — |
+| Salt | ~3 g | For eggs | — |
+| Salt | ~1.5 g | For oat batter, or to taste | — |
+| Black pepper | ~0.5 g | — | — |
+| Oil | Amount not shown | For pan-cooking | — |
 - Method: Blend oats into powder. Add milk and enough water for a dosa-like batter; rest 10 minutes. Beat ~150 g egg with ~3 g salt and ~0.5 g pepper, then mix into the oat batter. Add capsicum, tomato, onion, green chillies, coriander, ~15 g grated carrot, and ~1.5 g salt. Pour portions into an oiled pan, spread, and cook on both sides until set and browned.
 - Meal-prep note: For the Tuesday/Wednesday cycle, cook two portions Tuesday morning, cool promptly in shallow containers, refrigerate, and reheat at 9:30. Texture may soften slightly by Wednesday.
 - Reminder: Remember to add cheese. It is not always shown in the video, so I sometimes forget it.
@@ -77,10 +87,25 @@
 - Time: 10 min
 - Tags: breakfast, bread, vegetarian, make-ahead
 - YouTube: Not available; source is a user-supplied video transcript.
-- Ingredients: 1 can chickpeas, drained and rinsed; 100 g red onion, finely diced; 80 g celery, diced; 1 tsp curry powder; 1/2 tsp turmeric; 2 tbsp Greek yogurt; 10 g coriander, chopped; juice of 1 lemon; salt; black pepper; 4 slices high-protein bread.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Chickpeas | 1 can | Drained and rinsed | — |
+| Red onion | 100 g | Finely diced | — |
+| Celery | 80 g | Diced | — |
+| Curry powder | 1 tsp | — | — |
+| Turmeric | 1/2 tsp | — | — |
+| Greek yogurt | 2 tbsp | — | — |
+| Coriander | 10 g | Chopped | — |
+| Lemon juice | Juice of 1 lemon | — | — |
+| Salt | Amount not shown | — | — |
+| Black pepper | Amount not shown | — | — |
+| High-protein bread | 4 slices | — | — |
+| Cooked chicken | 100 g per serving | Add to each serving | optional |
 - Method: Mash chickpeas with salt first; keep slightly chunky. Mix in onion, celery, curry powder, turmeric, yogurt, coriander, lemon juice, and pepper. Toast bread. Add half the spread to each 2-slice serving.
 - Prep: Spread keeps 3 days refrigerated. Toast bread only when eating.
-- High-protein option: Add 100 g cooked chicken to each serving.
+- High-protein option: See optional cooked chicken in the ingredients table.
 - Source: Video transcript, ingredient card supplied by user.
 
 <a id="korean-mayak-eggs"></a>
@@ -91,7 +116,19 @@
 - Yield: 6 eggs
 - Active time: ~15 min; marinate overnight
 - Tags: breakfast, egg, meal-prep, Korean, make-ahead
-- Ingredients: 6 eggs; 150 g dark soy sauce; 150 g water; 75 g white sugar or syrup; 2 crushed garlic cloves; 1 spring onion, sliced; optional 1/2 spicy chilli, sliced; salt and a splash of vinegar for boiling water.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Eggs | 6 | — | — |
+| Dark soy sauce | 150 g | — | — |
+| Water | 150 g | — | — |
+| White sugar or syrup | 75 g | — | — |
+| Garlic | 2 cloves | Crushed | — |
+| Spring onion | 1 | Sliced | — |
+| Spicy chilli | 1/2 | Sliced | optional |
+| Salt | Amount not shown | For boiling water | — |
+| Vinegar | A splash | For boiling water | — |
 - Method: Cover eggs with cold or room-temperature water. Add salt and vinegar. Soft-boil for 6 1/2 minutes, then move immediately to cold water. Peel. Put spring onion, garlic, optional chilli, soy sauce, water, and sugar in a 500 ml container; shake until sugar dissolves. Add eggs. Refrigerate overnight.
 - Serve: Over rice with a little marinade, or on high-protein bread.
 - Taste note: Tastes bad. Do not repeat.
@@ -102,7 +139,14 @@
 
 - Status: Candidate
 - Tags: breakfast, egg, Korean, quick
-- Ingredients: 3 eggs; 1 cheese slice; preferred spices; 2 Korean Mayak eggs.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Eggs | 3 | — | — |
+| Cheese slice | 1 | — | — |
+| Preferred spices | Amount not shown | — | — |
+| Korean Mayak eggs | 2 | — | — |
 - Method: Beat 3 eggs with spices. Pan-cook omelet; add cheese slice, fold, and melt. Serve with 2 Korean Mayak eggs.
 - Prep: Marinate Mayak eggs overnight. Omelet takes about 5 minutes when eating.
 
@@ -113,7 +157,16 @@
 - Protein: ~42 g
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
-- Ingredients: 70 g oats; 30 g whey protein; 150 ml skim milk; 100 g blueberries; dash cinnamon; 15 g walnuts.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Oats | 70 g | — | — |
+| Whey protein | 30 g | — | — |
+| Skim milk | 150 ml | — | — |
+| Blueberries | 100 g | — | — |
+| Cinnamon | Dash | — | — |
+| Walnuts | 15 g | Crushed; add when eating | — |
 - Method: Mix oats, whey, and milk. Stir in blueberries and cinnamon. Refrigerate overnight. Add crushed walnuts when eating.
 - Prep: Make up to 3 jars at once; best within 3 days.
 
@@ -124,7 +177,15 @@
 - Protein: ~45 g
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
-- Ingredients: 70 g oats; 30 g whey protein; 150 ml skim milk; 100 g mixed berries; 20 g peanut butter.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Oats | 70 g | — | — |
+| Whey protein | 30 g | — | — |
+| Skim milk | 150 ml | — | — |
+| Mixed berries | 100 g | — | — |
+| Peanut butter | 20 g | Add when eating | — |
 - Method: Mix oats, whey, milk, and berries. Refrigerate overnight. Add peanut butter when eating.
 - Prep: Make up to 3 jars at once; best within 3 days.
 
@@ -134,7 +195,15 @@
 - Status: Candidate
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
-- Ingredients: 70 g oats; 30 g whey protein; 150 ml skim milk; 100 g raspberries; 1–2 squares dark chocolate.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Oats | 70 g | — | — |
+| Whey protein | 30 g | — | — |
+| Skim milk | 150 ml | — | — |
+| Raspberries | 100 g | — | — |
+| Dark chocolate | 1–2 squares | Crushed; add if eating | optional |
 - Method: Mix oats, whey, milk, and raspberries. Refrigerate overnight. Add crushed dark chocolate if eating.
 - Prep: Make up to 3 jars at once; best within 3 days.
 - Smaller base: 55 g oats + 120 ml milk.
@@ -146,7 +215,20 @@
 - Status: Candidate
 - Time: 5 min; refrigerate 6–12 hours
 - Tags: breakfast, sweet, meal-prep
-- Ingredients: 60 g rolled oats; 12 g chia seeds; 160 g whole milk; 60 g plain Greek yogurt; 20 g honey; 1/2 medium ripe banana, mashed (~60 g); 1/4 medium banana, diced (~30 g); ~0.7 g ground cinnamon; ~0.3 g ground nutmeg; crushed walnuts, as desired.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Rolled oats | 60 g | — | — |
+| Chia seeds | 12 g | — | — |
+| Whole milk | 160 g | — | — |
+| Plain Greek yogurt | 60 g | — | — |
+| Honey | 20 g | — | — |
+| Ripe banana | 1/2 medium (~60 g) | Mashed | — |
+| Banana | 1/4 medium (~30 g) | Diced | — |
+| Ground cinnamon | ~0.7 g | — | — |
+| Ground nutmeg | ~0.3 g | — | — |
+| Walnuts | As desired | Crushed | optional |
 - Method: Mix oats, chia, milk, yogurt, honey, mashed banana, cinnamon, and nutmeg. Top with diced banana and walnuts. Seal; refrigerate overnight.
 - Source: [Ian Fujimoto video](https://www.youtube.com/watch?v=eMClJNn6-kQ), captions verified.
 
@@ -156,7 +238,22 @@
 - Status: Candidate
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
-- Ingredients: 60 g rolled oats; 12 g chia seeds; 160 g whole milk; 60 g plain Greek yogurt; 20 g maple syrup; 24 g creamy peanut butter; 5 g cocoa powder; 10 g mini chocolate chips; small pinch salt.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Rolled oats | 60 g | — | — |
+| Chia seeds | 12 g | — | — |
+| Whole milk | 160 g | — | — |
+| Plain Greek yogurt | 60 g | — | — |
+| Maple syrup | 20 g | — | — |
+| Creamy peanut butter | 24 g | — | — |
+| Cocoa powder | 5 g | — | — |
+| Mini chocolate chips | 10 g | — | — |
+| Salt | Small pinch | — | — |
+| Peanut butter | 5 g | For optional drizzle | optional |
+| Warm water | 5 g | For optional drizzle | optional |
+| Mini chocolate chips | Amount not shown | Extra for optional topping | optional |
 - Method: Mix all ingredients thoroughly. Optional: stir 5 g peanut butter with 5 g warm water; drizzle and add extra mini chips. Seal; refrigerate overnight.
 - Source: [Ian Fujimoto video](https://www.youtube.com/watch?v=eMClJNn6-kQ), captions verified.
 
@@ -166,7 +263,21 @@
 - Status: Candidate
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, coffee
-- Ingredients: 60 g rolled oats; 12 g chia seeds; 160 g whole milk; 60 g plain Greek yogurt; 20 g maple syrup; ~4 g instant espresso powder; ~2.5 g cocoa powder; ~2.5 g vanilla extract.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Rolled oats | 60 g | — | — |
+| Chia seeds | 12 g | — | — |
+| Whole milk | 160 g | — | — |
+| Plain Greek yogurt | 60 g | — | — |
+| Maple syrup | 20 g | — | — |
+| Instant espresso powder | ~4 g | — | — |
+| Cocoa powder | ~2.5 g | — | — |
+| Vanilla extract | ~2.5 g | — | — |
+| Greek yogurt | 30 g | Optional topping; mix with vanilla | optional |
+| Vanilla extract | ~1.25 g | For optional topping | optional |
+| Cocoa powder | Amount not shown | For optional topping dusting | optional |
 - Method: Mix all ingredients until espresso powder dissolves. Optional topping: 30 g Greek yogurt mixed with ~1.25 g vanilla; dust with cocoa. Seal; refrigerate overnight.
 - Source: [Ian Fujimoto video](https://www.youtube.com/watch?v=eMClJNn6-kQ), captions verified.
 
@@ -176,7 +287,19 @@
 - Status: Candidate
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
-- Ingredients: 60 g rolled oats; 12 g chia seeds; 160 g whole milk; 60 g plain Greek yogurt; 20 g honey; 24 g creamy peanut butter; 30 g strawberry jam; fresh strawberries and lightly salted peanuts, as desired.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Rolled oats | 60 g | — | — |
+| Chia seeds | 12 g | — | — |
+| Whole milk | 160 g | — | — |
+| Plain Greek yogurt | 60 g | — | — |
+| Honey | 20 g | — | — |
+| Creamy peanut butter | 24 g | — | — |
+| Strawberry jam | 30 g | — | — |
+| Fresh strawberries | As desired | — | optional |
+| Lightly salted peanuts | As desired | — | optional |
 - Method: Mix oats, chia, milk, yogurt, and honey. Gently fold in peanut butter and jam; leave distinct pockets. Top with strawberries and peanuts. Seal; refrigerate overnight.
 - Source: [Ian Fujimoto video](https://www.youtube.com/watch?v=eMClJNn6-kQ), captions verified.
 
@@ -186,7 +309,21 @@
 - Status: Candidate
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
-- Ingredients: 60 g rolled oats; 12 g chia seeds; 160 g whole milk; 60 g plain Greek yogurt; 20 g maple syrup; ~6.25 g cocoa powder; ~2.5 g vanilla extract; 15 g dark chocolate, finely chopped; 1/2 tsp flaky sea salt; 5–6 fresh raspberries (~20 g), crushed.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Rolled oats | 60 g | — | — |
+| Chia seeds | 12 g | — | — |
+| Whole milk | 160 g | — | — |
+| Plain Greek yogurt | 60 g | — | — |
+| Maple syrup | 20 g | — | — |
+| Cocoa powder | ~6.25 g | — | — |
+| Vanilla extract | ~2.5 g | — | — |
+| Dark chocolate | 15 g | Finely chopped | — |
+| Flaky sea salt | 1/2 tsp | — | — |
+| Fresh raspberries | 5–6 (~20 g) | Crushed | — |
+| Dark chocolate | Amount not shown | Extra, shaved for optional topping | optional |
 - Method: Mix oats, chia, milk, yogurt, maple syrup, cocoa, vanilla, chocolate, and salt. Spoon crushed raspberries over top. Optional: shave more chocolate over top. Seal; refrigerate overnight.
 - Source: [Ian Fujimoto video](https://www.youtube.com/watch?v=eMClJNn6-kQ), captions verified.
 
@@ -198,7 +335,19 @@
 - Yield: 7 burritos
 - Time: 45 min total
 - Tags: meal-prep, freezer-friendly, breakfast, bulk-cook
-- Ingredients: 7 large tortillas; 900 g chicken mince or finely chopped chicken; 14 eggs; 350 g cooked cubed potatoes; 210 g low-fat cheddar; taco seasoning; salt; pepper; small amount of oil.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Large tortillas | 7 | — | — |
+| Chicken mince or finely chopped chicken | 900 g | — | — |
+| Eggs | 14 | — | — |
+| Potatoes | 350 g | Cooked and cubed | — |
+| Low-fat cheddar | 210 g | — | — |
+| Taco seasoning | Amount not shown | — | — |
+| Salt | Amount not shown | — | — |
+| Pepper | Amount not shown | — | — |
+| Oil | Small amount | — | — |
 - Method: Roast or pan-cook potatoes until crisp. Brown chicken with taco seasoning, salt, and pepper. Scramble eggs in same pan. Portion each tortilla with 30 g cheese, about 100 g cooked chicken, 50 g potatoes, and 100 g cooked egg. Fold sides, roll tightly, then toast if desired.
 - Storage: Refrigerate up to 4–5 days. Freeze individually up to 3 months.
 - Reheat: Fridge microwave 1–2 min or air fryer 175°C for 5–6 min. Thaw frozen burrito overnight first.
@@ -210,19 +359,50 @@
 - Status: Candidate
 - Time: 10 min
 - Tags: breakfast, savoury, oat, egg, cheese, pan-cooked
-- Ingredients: 1 cup quick oats; 1 cup milk; 2 eggs; salt; black pepper; 1 tbsp olive oil; 30 g mozzarella; pinch crushed red pepper; pinch parsley; vegetable oil; black sesame seeds.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Quick oats | 1 cup | — | — |
+| Milk | 1 cup | — | — |
+| Eggs | 2 | — | — |
+| Salt | Amount not shown | — | — |
+| Black pepper | Amount not shown | — | — |
+| Olive oil | 1 tbsp | — | — |
+| Mozzarella | 30 g | — | — |
+| Crushed red pepper | Pinch | — | — |
+| Parsley | Pinch | — | — |
+| Vegetable oil | Amount not shown | — | — |
+| Black sesame seeds | Amount not shown | — | — |
 - Method: Soak oats and milk for 5 minutes. Beat eggs with salt, pepper, olive oil, mozzarella, crushed red pepper, and parsley. Mix with soaked oats. Oil a pan, pour in mixture, and top with black sesame seeds. Cook 3–5 minutes over medium-low heat; flip and cook 2–3 minutes more.
 - Source: [Helly's Simple Recipe video](https://www.youtube.com/watch?v=sHa0zJM3BPg), recipe text from video description.
 
 <a id="egg-tortilla-quesadilla"></a>
-### Egg Tortilla Quesadilla
+### Chicken Egg Tortilla Quesadilla
 
 - Status: Candidate
-- Time: 5 min
-- Tags: breakfast, savoury, egg, tortilla, cheese, pan-cooked
-- Ingredients: 4 eggs; salt; black pepper; green onion; 2 tortillas; mozzarella cheese; bacon crumbles; spinach; tomato; cheese slices; unsalted butter.
-- Method: Season and cook the eggs in a pan. Place a tortilla over the egg, then add the fillings. Fold the tortilla over, butter the pan as needed, and cook both sides until lightly golden and the cheese melts.
-- Source: [Helly's Simple Recipe video](https://www.youtube.com/watch?v=gI5JKhoZbYs), ingredient list from video description.
+- Yield: 1 quesadilla
+- Time: amount not shown
+- Tags: breakfast, savoury, chicken, egg, tortilla, cheese
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Eggs | 2 | — | — |
+| Salt | Pinch | — | — |
+| Black pepper | Pinch | — | — |
+| Tortilla | 1 (23 cm) | — | — |
+| Cooked chicken | Amount not shown | — | — |
+| Mozzarella cheese | Amount not shown | — | — |
+| Cheese slice(s) | Amount not shown | — | — |
+| Unsalted butter | Amount not shown | — | — |
+| Corn | Amount not shown | — | optional |
+| Caramelized onion | Amount not shown | Cook slowly in butter | optional |
+| Baked beans | Amount not shown | — | optional |
+
+- Method: If using onion, slowly cook it in butter until caramelized; set aside. Season and cook eggs in a pan. Place tortilla over the egg and flip. Add cooked chicken, selected toppings, mozzarella, and cheese slices to one half. Fold tortilla over and cook both sides until lightly golden and the cheese melts.
+- Note: Adapted from the video's two-quesadilla recipe: uses 2 eggs and one 23 cm tortilla for this serving. Replaces the source's 30 g bacon crumbles with chicken; chicken amount not shown. Use any combination of corn, caramelized onion, and baked beans as desired. Spinach, tomato, and green onion omitted per user request.
+- Source: [Helly's Simple Recipe video](https://www.youtube.com/watch?v=gI5JKhoZbYs). On-screen ingredient text visually verified; chicken and caramelized onion are user-requested adaptations.
 
 <a id="guacamole"></a>
 ### Guacamole
@@ -231,7 +411,17 @@
 - Yield: amount not shown
 - Time: amount not shown
 - Tags: breakfast, savoury, avocado, dip
-- Ingredients: 1 ripe avocado; lemon/lime juice, 2–3 tbsp; 1/2 red/white onion, finely chopped; 1 jalapeño or green chilli, finely chopped; 1 tomato, cored and chopped; cilantro, 2–3 tbsp, finely chopped; salt, amount not shown.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Ripe avocado | 1 | — | — |
+| Lemon/lime juice | 2–3 tbsp | — | — |
+| Red/white onion | 1/2 | Finely chopped | — |
+| Jalapeño or green chilli | 1 | Finely chopped | — |
+| Tomato | 1 | Cored and chopped | — |
+| Cilantro | 2–3 tbsp | Finely chopped | — |
+| Salt | Amount not shown | — | — |
 - Method: Mash avocado with lemon/lime juice. Fold in onion, chilli, tomato, and cilantro. Salt to taste.
 - Adaptation: Uses 1 avocado. Source uses 3; all other amounts retained as shown.
 - Source: [The Cooking Foodie — How to Make Guacamole](https://www.youtube.com/watch?v=K06J2pFY6yU&feature=youtu.be). On-screen text visually verified from downloaded video.
@@ -243,7 +433,29 @@
 - Yield: amount not shown
 - Time: amount not shown
 - Tags: breakfast, savoury, poha, vegetarian, Indian
-- Ingredients: thick poha, 3 cups; onion, 1 medium; potato, 1 medium; French beans, 1 handful; capsicum, 1/2; carrot, 1/2; green peas, 1/4 cup; oil, 2 tbsp; cumin seeds, 1/2 tsp; mustard seeds, 1/2 tsp; curry leaves, 15; green chilli, chopped, 3; peanuts, 1/4 cup optional; turmeric, 1/2 tsp; lemon juice, 1 lemon; sugar, 1 tsp, then adjust; fresh coriander, 1 handful chopped, plus garnish; salt, to taste, then adjust; hot water, a splash twice.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Thick poha | 3 cups | — | — |
+| Onion | 1 medium | — | — |
+| Potato | 1 medium | — | — |
+| French beans | 1 handful | — | — |
+| Capsicum | 1/2 | — | — |
+| Carrot | 1/2 | — | — |
+| Green peas | 1/4 cup | — | — |
+| Oil | 2 tbsp | — | — |
+| Cumin seeds | 1/2 tsp | — | — |
+| Mustard seeds | 1/2 tsp | — | — |
+| Curry leaves | 15 | — | — |
+| Green chilli | 3 | Chopped | — |
+| Peanuts | 1/4 cup | — | optional |
+| Turmeric | 1/2 tsp | — | — |
+| Lemon juice | 1 lemon | — | — |
+| Sugar | 1 tsp | Then adjust | — |
+| Fresh coriander | 1 handful | Chopped, plus garnish | — |
+| Salt | To taste | Then adjust | — |
+| Hot water | A splash twice | — | — |
 - Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, chilli, and peanuts. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
 - Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
 

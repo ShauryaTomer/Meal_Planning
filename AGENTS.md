@@ -9,4 +9,4 @@
 - For "what should I order/buy for <recipe>?", answer from that recipe's ingredient list. Group duplicates. Mark missing quantities instead of estimating.
 - For YouTube recipe extraction, use `.agents/skills/youtube-recipe-extractor`.
 - Keep temporary video/frame files outside this project. Do not delete user files.
-- Maintain short context only in `docs/_work/` when feature work needs it. Do not commit Markdown files.
+- Maintain short context only in `docs/_work/` when feature work needs it. Commit Markdown files when they are part of user-requested project changes.

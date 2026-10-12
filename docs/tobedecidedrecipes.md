@@ -23,7 +23,20 @@
 - Protein: ~65 g/serving
 - Time: 25 min
 - Tags: quick, meal-prep, bowl
-- Ingredients: 250 g chicken breast; 150 g Greek yogurt; lemon; garlic; cucumber; tomato; 100 g cooked rice; paprika; salt; pepper.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Chicken breast | 250 g | — | — |
+| Greek yogurt | 150 g | — | — |
+| Lemon | Amount not shown | — | — |
+| Garlic | Amount not shown | — | — |
+| Cucumber | Amount not shown | — | — |
+| Tomato | Amount not shown | — | — |
+| Cooked rice | 100 g | — | — |
+| Paprika | Amount not shown | — | — |
+| Salt | Amount not shown | — | — |
+| Pepper | Amount not shown | — | — |
 - Method: Marinate chicken with half yogurt, lemon, garlic, paprika, salt, pepper. Pan-cook until done. Serve over rice with remaining yogurt and chopped vegetables.
 - Note: Use 300 g chicken for a larger protein target.
 
@@ -34,7 +47,17 @@
 - Protein: ~55 g/serving
 - Time: 20 min
 - Tags: one-pan, leftovers, budget
-- Ingredients: 200 g chicken breast; 2 eggs; 200 g cooked rice; mixed vegetables; soy sauce; garlic; oil.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Chicken breast | 200 g | — | — |
+| Eggs | 2 | — | — |
+| Cooked rice | 200 g | — | — |
+| Mixed vegetables | Amount not shown | — | — |
+| Soy sauce | Amount not shown | — | — |
+| Garlic | Amount not shown | — | — |
+| Oil | Amount not shown | — | — |
 - Method: Cook diced chicken. Add vegetables, then rice. Push aside, scramble eggs. Mix with soy sauce and garlic.
 - Note: Best with cold leftover rice.
 
@@ -44,7 +67,19 @@
 - Protein: ~60 g/serving
 - Time: 40 min
 - Tags: batch-cook, curry, freezer-friendly
-- Ingredients: 250 g chicken breast or thigh; 100 g dry lentils; onion; tomato; ginger; garlic; curry spices; stock; spinach.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Chicken breast or thigh | 250 g | — | — |
+| Dry lentils | 100 g | — | — |
+| Onion | Amount not shown | — | — |
+| Tomato | Amount not shown | — | — |
+| Ginger | Amount not shown | — | — |
+| Garlic | Amount not shown | — | — |
+| Curry spices | Amount not shown | — | — |
+| Stock | Amount not shown | — | — |
+| Spinach | Amount not shown | — | — |
 - Method: Brown chicken. Fry onion, ginger, garlic, spices. Add tomato, lentils, stock, and chicken. Simmer until lentils are soft; stir in spinach.
 - Note: Serve with rice or roti if needed.
 
@@ -54,7 +89,18 @@
 - Protein: ~55 g/serving
 - Time: 15 min
 - Tags: fast, no-fuss, lunch
-- Ingredients: 200 g cooked chicken; 150 g thick Greek yogurt; 2 whole-wheat wraps; lettuce; tomato; hot sauce; cumin; pepper.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Cooked chicken | 200 g | — | — |
+| Thick Greek yogurt | 150 g | — | — |
+| Whole-wheat wraps | 2 | — | — |
+| Lettuce | Amount not shown | — | — |
+| Tomato | Amount not shown | — | — |
+| Hot sauce | Amount not shown | — | — |
+| Cumin | Amount not shown | — | — |
+| Pepper | Amount not shown | — | — |
 - Method: Mix chicken, Greek yogurt, spices, and hot sauce. Fill wraps with mixture and vegetables. Toast optional.
 - Note: Shred chicken for better texture.
 
@@ -64,7 +110,17 @@
 - Protein: ~65 g/serving
 - Time: 30 min
 - Tags: comfort food, meal-prep
-- Ingredients: 200 g chicken breast; 100 g dry high-protein or whole-wheat pasta; 150 g Greek yogurt; tomato sauce; garlic; parmesan; spinach.
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Chicken breast | 200 g | — | — |
+| Dry high-protein or whole-wheat pasta | 100 g | — | — |
+| Greek yogurt | 150 g | — | — |
+| Tomato sauce | Amount not shown | — | — |
+| Garlic | Amount not shown | — | — |
+| Parmesan | Amount not shown | — | — |
+| Spinach | Amount not shown | — | — |
 - Method: Cook pasta. Pan-cook seasoned chicken. Warm tomato sauce with garlic. Remove from heat, stir in yogurt, then combine with pasta, chicken, spinach, and parmesan.
 - Note: Keep yogurt sauce off high heat to prevent splitting.
 
