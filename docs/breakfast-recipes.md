@@ -372,7 +372,6 @@
 | Onion | 1 medium | — | — |
 | Potato | 1 medium | — | — |
 | French beans | 1 handful | — | — |
-| Capsicum | 1/2 | — | — |
 | Carrot | 1/2 | — | — |
 | Green peas | 1/4 cup | — | — |
 | Oil | 2 tbsp | — | — |
@@ -388,6 +387,9 @@
 | Salt | To taste | Then adjust | — |
 | Hot water | A splash twice | — | — |
 - Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, chilli, and peanuts. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
+- Important notes before cooking:
+  1. No capsicum in poha.
+  2. Remember peas.
 - Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
 
 ## Notes

@@ -79,10 +79,11 @@
 | Chicken | Red chilli powder | amount not shown | — | — |
 | Chicken | Coriander powder | amount not shown | — | — |
 | Chicken | Oil, for grilling | as needed | — | — |
-| Vegetable rice | Boiled rice | 600 g | — | — |
+| Vegetable rice | Boiled rice | 400 g (2 katori) | — | — |
+| Vegetable rice | Carrot | amount not shown | — | — |
+| Vegetable rice | Beans | amount not shown | — | — |
 | Vegetable rice | Salt | amount not shown | — | — |
 | Vegetable rice | Black pepper | amount not shown | — | — |
-| Salad | Cucumber | amount not shown | — | — |
 | Curry | Onions | 4 | — | — |
 | Curry | Tomatoes | amount not shown | — | — |
 | Curry | Garlic | amount not shown | — | — |
@@ -95,9 +96,11 @@
 | Curry | Habanero Tomato Salsa | 250 ml | — | — |
 
 
-- Method: Marinate chicken in curd, ginger-garlic paste, turmeric, red chilli powder, and coriander powder. Oil a grill pan; cook chicken through. Boil rice with salt and black pepper. For curry, cook onions, tomatoes, garlic, green chilli, coriander powder, turmeric, and salt until soft. Blend smooth, return to pan, thin with water, then simmer with cooked chicken. Finish coriander. Serve with boiled rice and cucumber salad (cut cucumber, keep in box with meals).
-- Note: Video makes 3 meals; gram quantities scaled by 4/3. Curd uses creator’s corrected comment: 150 g for original recipe, 200 g for 4 meals. Other unquantified ingredients remain unscaled.
-- Reminder: Add the habanero tomato salsa to the gravy. It is not shown in the video, so I sometimes forget it.
+- Method: Marinate chicken in curd, ginger-garlic paste, turmeric, red chilli powder, and coriander powder. Oil a grill pan; cook chicken through. Boil rice with salt and black pepper; mix in carrot and beans. For curry, cook onions, tomatoes, garlic, green chilli, coriander powder, turmeric, and salt until soft. Blend smooth, return to pan, thin with water, then simmer with cooked chicken. Finish coriander. Serve with the vegetable rice.
+- Note: Video makes 3 meals; gram quantities scaled by 4/3. Curd uses creator’s corrected comment: 150 g for original recipe, 200 g for 4 meals. Other unquantified ingredients remain unscaled. User changes: rice set to 400 g (2 katori) instead of 600 g; cucumber salad removed; carrot and beans added (amounts not set), so the video-stated macros are approximate.
+- Important notes before cooking:
+  1. Habanero salsa: add the habanero tomato salsa to the gravy. It is not shown in the video, so I sometimes forget it.
+  2. No capsicum in the rice.
 - Source: [YouTube video](https://youtu.be/jITWNUltiF8?si=hAXrfbRfSbx8kSIe). On-screen text visually verified from downloaded video.
 
 
