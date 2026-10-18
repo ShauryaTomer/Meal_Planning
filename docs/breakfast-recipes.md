@@ -4,7 +4,7 @@
 
 | Recipe | Status | Protein | Time | Tags |
 | --- | --- | --- | --- | --- |
-| [High-Protein French Toast](#high-protein-french-toast) | Untested, not for cook | 33 g | — | breakfast, sweet, bread, egg |
+| [High-Protein French Toast](#high-protein-french-toast) | Self | 33 g | — | breakfast, sweet, bread, egg |
 | [Vegetable Oats Omelette](#vegetable-oats-omelette) | Candidate | ~24 g / batch | 25 min | breakfast, egg, oats, vegetarian, meal-prep, Indian |
 | [Curried Chickpea Breakfast Toast](#curried-chickpea-breakfast-toast) | Untested | 20–50 g | 10 min | breakfast, bread, vegetarian, make-ahead |
 | [Blueberry Walnut Overnight Oats](#blueberry-walnut-overnight-oats) | Self | 42 g | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
@@ -15,9 +15,9 @@
 | [Mocha Latte Overnight Oats](#mocha-latte-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep, coffee |
 | [Peanut Butter & Jelly Overnight Oats](#peanut-butter-jelly-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
 | [Dark Chocolate Raspberry Overnight Oats](#dark-chocolate-raspberry-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
-| [High-Protein Chicken Breakfast Burritos](#chicken-breakfast-burritos) | Candidate | 55–60 g / burrito | 45 min | meal-prep, freezer-friendly, breakfast, bulk-cook |
+| [High-Protein Chicken Breakfast Burritos](#chicken-breakfast-burritos) | Self | 55–60 g / burrito | 45 min | meal-prep, freezer-friendly, breakfast, bulk-cook |
 | [Chicken Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | amount not shown | breakfast, savoury, chicken, egg, tortilla, cheese |
-| [Guacamole](#guacamole) | Candidate | — | — | breakfast, savoury, avocado, dip |
+| [Guacamole](#guacamole) | Self | — | — | breakfast, savoury, avocado, dip |
 | [Vegetable Poha](#vegetable-poha) | Candidate | — | — | breakfast, savoury, poha, vegetarian, Indian |
 
 ## Recipes
@@ -25,7 +25,7 @@
 <a id="high-protein-french-toast"></a>
 ### High-Protein French Toast
 
-- Status: Untested, not for cook
+- Status: Self
 - Macros: 477 kcal; 56 g carbs; 12 g fat; 33 g protein. User-stated, using cow's milk.
 - Yield: 1 serving
 - Tags: breakfast, sweet, bread, egg
@@ -285,7 +285,7 @@
 <a id="chicken-breakfast-burritos"></a>
 ### Noel Deyzel-Style High-Protein Chicken Breakfast Burritos
 
-- Status: Candidate
+- Status: Self
 - Protein: ~55–60 g/burrito, depending on tortilla and chicken
 - Yield: 7 burritos
 - Time: 45 min total
@@ -338,7 +338,7 @@
 <a id="guacamole"></a>
 ### Guacamole
 
-- Status: Candidate
+- Status: Self
 - Yield: amount not shown
 - Time: amount not shown
 - Tags: breakfast, savoury, avocado, dip
@@ -379,17 +379,17 @@
 | Mustard seeds | 1/2 tsp | — | — |
 | Curry leaves | 15 | — | — |
 | Green chilli | 3 | Chopped | — |
-| Peanuts | 1/4 cup | — | optional |
 | Turmeric | 1/2 tsp | — | — |
 | Lemon juice | 1 lemon | — | — |
 | Sugar | 1 tsp | Then adjust | — |
 | Fresh coriander | 1 handful | Chopped, plus garnish | — |
 | Salt | To taste | Then adjust | — |
 | Hot water | A splash twice | — | — |
-- Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, chilli, and peanuts. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
+- Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, and chilli. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
 - Important notes before cooking:
   1. No capsicum in poha.
   2. Remember peas.
+  3. No peanuts.
 - Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
 
 ## Notes
