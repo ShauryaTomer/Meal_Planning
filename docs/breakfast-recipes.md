@@ -4,21 +4,18 @@
 
 | Recipe | Status | Protein | Time | Tags |
 | --- | --- | --- | --- | --- |
-| [High-Protein French Toast](#high-protein-french-toast) | Candidate | 33 g | — | breakfast, sweet, bread, egg |
+| [High-Protein French Toast](#high-protein-french-toast) | Untested, not for cook | 33 g | — | breakfast, sweet, bread, egg |
 | [Vegetable Oats Omelette](#vegetable-oats-omelette) | Candidate | ~24 g / batch | 25 min | breakfast, egg, oats, vegetarian, meal-prep, Indian |
-| [Curried Chickpea Breakfast Toast](#curried-chickpea-breakfast-toast) | Candidate | 20–50 g | 10 min | breakfast, bread, vegetarian, make-ahead |
-| [Korean Mayak Eggs](#korean-mayak-eggs) | Bad | 13 g / 2 eggs | 15 min + overnight | breakfast, egg, meal-prep, Korean, make-ahead |
-| [Three-Egg Cheese Omelet with Mayak Eggs](#three-egg-cheese-omelet-mayak-eggs) | Candidate | — | 5 min | breakfast, egg, Korean, quick |
-| [Blueberry Walnut Overnight Oats](#blueberry-walnut-overnight-oats) | Candidate | 42 g | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
-| [Mixed Berry Peanut Butter Overnight Oats](#mixed-berry-peanut-butter-overnight-oats) | Candidate | 45 g | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
-| [Raspberry Dark Chocolate Overnight Oats](#raspberry-dark-chocolate-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
-| [Banana Bread Overnight Oats](#banana-bread-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep |
-| [Peanut Butter Cup Overnight Oats](#peanut-butter-cup-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep |
-| [Mocha Latte Overnight Oats](#mocha-latte-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep, coffee |
-| [Peanut Butter & Jelly Overnight Oats](#peanut-butter-jelly-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep |
-| [Dark Chocolate Raspberry Overnight Oats](#dark-chocolate-raspberry-overnight-oats) | Candidate | — | 5 min + overnight | breakfast, sweet, meal-prep |
+| [Curried Chickpea Breakfast Toast](#curried-chickpea-breakfast-toast) | Untested | 20–50 g | 10 min | breakfast, bread, vegetarian, make-ahead |
+| [Blueberry Walnut Overnight Oats](#blueberry-walnut-overnight-oats) | Self | 42 g | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
+| [Mixed Berry Peanut Butter Overnight Oats](#mixed-berry-peanut-butter-overnight-oats) | Self | 45 g | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
+| [Raspberry Dark Chocolate Overnight Oats](#raspberry-dark-chocolate-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep, high-protein |
+| [Banana Bread Overnight Oats](#banana-bread-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
+| [Peanut Butter Cup Overnight Oats](#peanut-butter-cup-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
+| [Mocha Latte Overnight Oats](#mocha-latte-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep, coffee |
+| [Peanut Butter & Jelly Overnight Oats](#peanut-butter-jelly-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
+| [Dark Chocolate Raspberry Overnight Oats](#dark-chocolate-raspberry-overnight-oats) | Self | — | 5 min + overnight | breakfast, sweet, meal-prep |
 | [High-Protein Chicken Breakfast Burritos](#chicken-breakfast-burritos) | Candidate | 55–60 g / burrito | 45 min | meal-prep, freezer-friendly, breakfast, bulk-cook |
-| [Savoury Oat, Egg & Mozzarella Pancake](#savoury-oat-egg-mozzarella-pancake) | Candidate | — | 10 min | breakfast, savoury, oat, egg, cheese, pan-cooked |
 | [Chicken Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | amount not shown | breakfast, savoury, chicken, egg, tortilla, cheese |
 | [Guacamole](#guacamole) | Candidate | — | — | breakfast, savoury, avocado, dip |
 | [Vegetable Poha](#vegetable-poha) | Candidate | — | — | breakfast, savoury, poha, vegetarian, Indian |
@@ -28,7 +25,7 @@
 <a id="high-protein-french-toast"></a>
 ### High-Protein French Toast
 
-- Status: Candidate
+- Status: Untested, not for cook
 - Macros: 477 kcal; 56 g carbs; 12 g fat; 33 g protein. User-stated, using cow's milk.
 - Yield: 1 serving
 - Tags: breakfast, sweet, bread, egg
@@ -81,7 +78,7 @@
 <a id="curried-chickpea-breakfast-toast"></a>
 ### Curried Chickpea Breakfast Toast
 
-- Status: Candidate
+- Status: Untested
 - Protein: ~20 g/serving with 2 slices high-protein bread; ~50 g with 100 g cooked chicken added.
 - Yield: 2 servings
 - Time: 10 min
@@ -108,52 +105,10 @@
 - High-protein option: See optional cooked chicken in the ingredients table.
 - Source: Video transcript, ingredient card supplied by user.
 
-<a id="korean-mayak-eggs"></a>
-### Korean Mayak Eggs ("Drug Eggs")
-
-- Status: Bad
-- Protein: ~13 g per 2 eggs; serve with high-protein bread or rice.
-- Yield: 6 eggs
-- Active time: ~15 min; marinate overnight
-- Tags: breakfast, egg, meal-prep, Korean, make-ahead
-- Ingredients:
-
-| Ingredient | Amount | Prep / notes | Tags |
-| --- | --- | --- | --- |
-| Eggs | 6 | — | — |
-| Dark soy sauce | 150 g | — | — |
-| Water | 150 g | — | — |
-| White sugar or syrup | 75 g | — | — |
-| Garlic | 2 cloves | Crushed | — |
-| Spring onion | 1 | Sliced | — |
-| Spicy chilli | 1/2 | Sliced | optional |
-| Salt | Amount not shown | For boiling water | — |
-| Vinegar | A splash | For boiling water | — |
-- Method: Cover eggs with cold or room-temperature water. Add salt and vinegar. Soft-boil for 6 1/2 minutes, then move immediately to cold water. Peel. Put spring onion, garlic, optional chilli, soy sauce, water, and sugar in a 500 ml container; shake until sugar dissolves. Add eggs. Refrigerate overnight.
-- Serve: Over rice with a little marinade, or on high-protein bread.
-- Taste note: Tastes bad. Do not repeat.
-- Source: [Johnny KH video](https://www.youtube.com/watch?v=TP8W1YzpCaw), English captions extracted with yt-dlp.
-
-<a id="three-egg-cheese-omelet-mayak-eggs"></a>
-### Three-Egg Cheese Omelet with Korean Mayak Eggs
-
-- Status: Candidate
-- Tags: breakfast, egg, Korean, quick
-- Ingredients:
-
-| Ingredient | Amount | Prep / notes | Tags |
-| --- | --- | --- | --- |
-| Eggs | 3 | — | — |
-| Cheese slice | 1 | — | — |
-| Preferred spices | Amount not shown | — | — |
-| Korean Mayak eggs | 2 | — | — |
-- Method: Beat 3 eggs with spices. Pan-cook omelet; add cheese slice, fold, and melt. Serve with 2 Korean Mayak eggs.
-- Prep: Marinate Mayak eggs overnight. Omelet takes about 5 minutes when eating.
-
 <a id="blueberry-walnut-overnight-oats"></a>
 ### High-Protein Overnight Oats — Blueberry Walnut
 
-- Status: Candidate
+- Status: Self
 - Protein: ~42 g
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
@@ -173,7 +128,7 @@
 <a id="mixed-berry-peanut-butter-overnight-oats"></a>
 ### High-Protein Overnight Oats — Mixed Berry Peanut Butter
 
-- Status: Candidate
+- Status: Self
 - Protein: ~45 g
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
@@ -192,7 +147,7 @@
 <a id="raspberry-dark-chocolate-overnight-oats"></a>
 ### High-Protein Overnight Oats — Raspberry Dark Chocolate
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, high-protein
 - Ingredients:
@@ -212,7 +167,7 @@
 <a id="banana-bread-overnight-oats"></a>
 ### Overnight Oats — Banana Bread
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate 6–12 hours
 - Tags: breakfast, sweet, meal-prep
 - Ingredients:
@@ -235,7 +190,7 @@
 <a id="peanut-butter-cup-overnight-oats"></a>
 ### Overnight Oats — Peanut Butter Cup
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
 - Ingredients:
@@ -260,7 +215,7 @@
 <a id="mocha-latte-overnight-oats"></a>
 ### Overnight Oats — Mocha Latte
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep, coffee
 - Ingredients:
@@ -284,7 +239,7 @@
 <a id="peanut-butter-jelly-overnight-oats"></a>
 ### Overnight Oats — Peanut Butter & Jelly
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
 - Ingredients:
@@ -306,7 +261,7 @@
 <a id="dark-chocolate-raspberry-overnight-oats"></a>
 ### Overnight Oats — Dark Chocolate Raspberry
 
-- Status: Candidate
+- Status: Self
 - Time: 5 min; refrigerate overnight
 - Tags: breakfast, sweet, meal-prep
 - Ingredients:
@@ -352,30 +307,6 @@
 - Storage: Refrigerate up to 4–5 days. Freeze individually up to 3 months.
 - Reheat: Fridge microwave 1–2 min or air fryer 175°C for 5–6 min. Thaw frozen burrito overnight first.
 - Note: Original recipe uses beef; chicken used by default per preference. Weigh cooked chicken for equal portions.
-
-<a id="savoury-oat-egg-mozzarella-pancake"></a>
-### Savoury Oat, Egg & Mozzarella Pancake
-
-- Status: Candidate
-- Time: 10 min
-- Tags: breakfast, savoury, oat, egg, cheese, pan-cooked
-- Ingredients:
-
-| Ingredient | Amount | Prep / notes | Tags |
-| --- | --- | --- | --- |
-| Quick oats | 1 cup | — | — |
-| Milk | 1 cup | — | — |
-| Eggs | 2 | — | — |
-| Salt | Amount not shown | — | — |
-| Black pepper | Amount not shown | — | — |
-| Olive oil | 1 tbsp | — | — |
-| Mozzarella | 30 g | — | — |
-| Crushed red pepper | Pinch | — | — |
-| Parsley | Pinch | — | — |
-| Vegetable oil | Amount not shown | — | — |
-| Black sesame seeds | Amount not shown | — | — |
-- Method: Soak oats and milk for 5 minutes. Beat eggs with salt, pepper, olive oil, mozzarella, crushed red pepper, and parsley. Mix with soaked oats. Oil a pan, pour in mixture, and top with black sesame seeds. Cook 3–5 minutes over medium-low heat; flip and cook 2–3 minutes more.
-- Source: [Helly's Simple Recipe video](https://www.youtube.com/watch?v=sHa0zJM3BPg), recipe text from video description.
 
 <a id="egg-tortilla-quesadilla"></a>
 ### Chicken Egg Tortilla Quesadilla

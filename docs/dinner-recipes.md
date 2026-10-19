@@ -292,11 +292,9 @@
 | Component | Ingredient | Amount | Prep / notes | Tags |
 | --- | --- | --- | --- | --- |
 | Paste | Oil | 1 tbsp | — | — |
-| Paste | Mustard oil | 2–3 tbsp | — | — |
 | Paste | Large onions, roughly sliced | 2 | — | — |
 | Paste | Salt | to taste | — | — |
 | Paste | Garlic cloves, roughly chopped | 6 | — | — |
-| Paste | Ginger, peeled and roughly chopped | 2-inch piece | — | — |
 | Paste | Green chillies, less spicy, roughly chopped | 2 | — | — |
 | Paste | Coriander leaves, roughly chopped | 2–3 tbsp | — | — |
 | Paste | Turmeric powder | 1 tsp | — | — |
@@ -318,14 +316,14 @@
 | Curry | Tender coriander stems, finely chopped | 1 tsp | — | — |
 | Curry | Water | 1 cup | — | — |
 | Curry | Fresh green peas | 1 1/4 cups | — | — |
-| Curry | Paneer, cubed | 700 g | — | — |
+| Curry | Paneer, cubed | 400 g | — | — |
 | Curry | Salt | to taste | — | — |
 | Curry | Prepared masala | 1 tbsp | — | — |
 | Curry | Salt | to taste | — | — |
 | Garnish | Coriander sprig | amount not shown | — | — |
 
 
-- Method: For the paste, heat oil and mustard oil. Cook onions with salt, garlic, ginger, chillies, coriander leaves, turmeric, chilli powder, optional asafoetida, coriander powder, and curd until softened; blend smooth. Dry-roast the masala ingredients and grind. Heat ghee; bloom cumin. Add prepared paste, tomato puree, and water; simmer. Add coriander stems, further water, peas, paneer, prepared masala, and salt. Simmer until peas are tender and paneer is hot. Garnish with coriander.
+- Method: For the paste, heat oil. Cook onions with salt, garlic, chillies, coriander leaves, turmeric, chilli powder, optional asafoetida, coriander powder, and curd until softened; blend smooth. Dry-roast the masala ingredients and grind. Heat ghee; bloom cumin. Add prepared paste, tomato puree, and water; simmer. Add coriander stems, further water, peas, paneer, prepared masala, and salt. Simmer until peas are tender and paneer is hot. Garnish with coriander.
 - Source: [YouTube video](https://youtu.be/tYt9s6-5MLc?t=237). On-screen ingredient cards visually verified from downloaded video.
 
 
