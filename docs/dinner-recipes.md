@@ -12,7 +12,7 @@
 | [High-Protein Butter Chicken](#high-protein-butter-chicken)                  | Candidate | —              | —             |
 | [Chicken Salad Meal Prep](#chicken-salad-meal-prep)                          | Untested  | —              | ~25 min       |
 | [Mediterranean Chicken Pasta Salad](#mediterranean-chicken-pasta-salad)      | Untested  | 45 g / serving | 25 min + prep |
-| [Matar Paneer — Ranveer Brar](#matar-paneer-ranveer-brar)                    | Untested  | —              | 35–40 min     |
+| [Matar Paneer — Ranveer Brar](#matar-paneer-ranveer-brar)                    | Candidate | —              | 35–40 min     |
 | [Palak Paneer — Ranveer Brar](#palak-paneer-ranveer-brar)                    | Untested  | —              | 30 min        |
 | [High-Protein Chicken Shawarma Meal Prep](#high-protein-chicken-shawarma-meal-prep) | Untested | —              | 50 min        |
 | [Chicken Red Sauce Pasta](#chicken-red-sauce-pasta)                  | Candidate | ~41 g / serving | ~30 min       |
@@ -283,7 +283,7 @@
 ### Matar Paneer — Ranveer Brar
 
 - YouTube: [Watch recipe](https://youtu.be/tYt9s6-5MLc?t=237)
-- Status: Untested
+- Status: Candidate
 - Yield: 2–4 servings
 - Time: 10 min prep; 25–30 min cook
 - Tags: dinner, vegetarian, paneer, peas, Indian
