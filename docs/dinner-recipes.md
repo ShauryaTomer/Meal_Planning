@@ -336,7 +336,7 @@
 | Pasta | Dried pasta | 240 g (60 g per serving) | — | — |
 | Pasta | Hot water | as required | — | — |
 | Pasta | Salt | 1 tsp | — | — |
-| Chicken | Chicken breast, diced | 400 g | — | — |
+| Chicken | Chicken breast, diced | 750 g | — | — |
 | Chicken | Garlic powder | 1/2 tsp | — | — |
 | Chicken | Onion powder | 1/2 tsp | — | — |
 | Chicken | Paprika | 1/2 tsp | — | — |
