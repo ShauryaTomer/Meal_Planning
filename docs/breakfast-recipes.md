@@ -19,6 +19,7 @@
 | [Chicken Egg Tortilla Quesadilla](#egg-tortilla-quesadilla) | Candidate | — | amount not shown | breakfast, savoury, chicken, egg, tortilla, cheese |
 | [Guacamole](#guacamole) | Self | — | — | breakfast, savoury, avocado, dip |
 | [Vegetable Poha](#vegetable-poha) | Candidate | — | — | breakfast, savoury, poha, vegetarian, Indian |
+| [Perfect Paneer Paratha](#perfect-paneer-paratha) | Candidate | — | — | breakfast, savoury, paneer, paratha, vegetarian, Indian |
 
 ## Recipes
 
@@ -391,6 +392,39 @@
   2. Remember peas.
   3. No peanuts.
 - Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
+
+<a id="perfect-paneer-paratha"></a>
+### Perfect Paneer Paratha
+
+- Status: Candidate
+- Yield: 5–6 paratha
+- Time: amount not shown
+- Tags: breakfast, savoury, paneer, paratha, vegetarian, Indian
+- Ingredients:
+
+| Ingredient | Amount | Prep / notes | Tags |
+| --- | --- | --- | --- |
+| Seitan flour | 1.5 cup | Replaces the video's atta; untested | — |
+| Water | Amount not shown | Added gradually | — |
+| Ghee | 5 g per paratha | Replaces all video ghee; application point not set | — |
+| Sabut dhaniya | 1/2 tsp | Whole coriander seed; ground in mortar | — |
+| Black pepper | 1/2 tsp | Ground in mortar | — |
+| High-protein paneer | 200 g | Grated; replaces the video's 200 g paneer | — |
+| Salt | 1 tsp | — | — |
+| Red chilli powder | 1 tsp | — | — |
+| Dhaniya powder | 1.5 tsp | — | — |
+| Amchoor powder | 1/2 tsp | — | — |
+| Haldi powder | 1/4 tsp | — | — |
+| Roasted jeera powder | 1/2 tsp | — | — |
+| Ajwain | 1/2 tsp | — | — |
+| Ginger | 1 inch piece | — | — |
+| Green chilli | 2–3 | — | — |
+| Onion | 1 | — | — |
+| Coriander leaves | Amount not shown | — | — |
+| Maggi Masala | Amount not given | Added to filling | — |
+- Method: Add seitan flour to a bowl. Add water gradually and knead into a soft dough. Grind sabut dhaniya and black pepper in a mortar. Grate the paneer. Add salt, red chilli powder, dhaniya powder, amchoor, haldi, the ground dhaniya and black pepper, roasted jeera, ajwain, Maggi Masala, ginger, green chilli, onion, and coriander leaves; mix. Divide the dough, flatten, add the filling, seal, and roll into a flat paratha. Cook on a hot tawa over high flame, flipping until browned.
+- Adaptation: Ghee 5 g per paratha replaces all video ghee (dough 1/2 tsp shown twice; cooking ghee amount not shown). High-protein paneer replaces the video's 200 g paneer. Maggi Masala added to the filling; amount not given, fill in before use. Where the 5 g ghee is applied (dough, cooking, or both) is not set. Seitan flour replaces the video's atta at the same 1.5 cup; untested, 1:1 swap may not work (seitan has no starch and needs different water). Yield of 5–6 paratha is user-provided; the video does not show yield.
+- Source: [YouTube — Perfect PANEER Paratha No fail Paratha, bharatzkitchen HINDI](https://youtu.be/ScTQcnfN8Sw). On-screen text visually verified from downloaded video; spoken narration not checked.
 
 ## Notes
 
