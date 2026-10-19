@@ -128,7 +128,8 @@
 | Rice & veg | Onion | 1 | — | — |
 | Rice & veg | Red bell pepper | 1 | — | — |
 | Rice & veg | Baked beans | 100 g | — | — |
-| Rice & veg | Long-grain rice | 210 g | — | — |
+| Rice & veg | Corn | amount not shown | — | — |
+| Rice & veg | Long-grain rice | 200 g (1 katori) | — | — |
 | Rice & veg | Diced tomatoes | 400 g | — | — |
 | Rice & veg | Tomato paste | 1 tbsp | — | — |
 | Rice & veg | Chicken broth | 350 ml | — | — |
@@ -136,8 +137,8 @@
 | Rice & veg | Cilantro | amount not shown | — | — |
 
 
-- Method: Season diced chicken with spices, lime, oil, salt, and pepper. Sear 7–8 min; remove. Sauté onion and pepper; toast tomato paste 60 sec. Add washed rice, baked beans, and spices; toast 2 min. Add tomatoes, broth, bay leaf; cover and low-simmer 15–20 min. Fold chicken and cilantro through; cover 5 min. Portion into 4 containers; serve with lime.
-- Note: Uses 100 g baked beans instead of the source's black beans. Salt, pepper, and cilantro quantities not stated. Fibre is an ingredient-based estimate, not creator-stated.
+- Method: Season diced chicken with spices, lime, oil, salt, and pepper. Sear 7–8 min; remove. Sauté onion and pepper; toast tomato paste 60 sec. Add washed rice, baked beans, corn, and spices; toast 2 min. Add tomatoes, broth, bay leaf; cover and low-simmer 15–20 min. Fold chicken and cilantro through; cover 5 min. Portion into 4 containers; serve with lime.
+- Note: Uses 100 g baked beans instead of the source's black beans. Corn added by user (not in source; amount not set). Rice set to 200 g (1 katori) instead of the source's 210 g, and corn is extra, so the creator-stated macros are approximate. Salt, pepper, and cilantro quantities not stated. Fibre is an ingredient-based estimate, not creator-stated.
 - Source: [YouTube video](https://www.youtube.com/watch?v=AaUAHHBXpFg). Visual frames verified ingredients, cooking order, and four-container yield; exact quantities from video description.
 
 
