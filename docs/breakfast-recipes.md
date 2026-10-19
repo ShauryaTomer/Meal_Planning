@@ -243,7 +243,7 @@
 - Yield: amount not shown
 - Time: amount not shown
 - Tags: breakfast, savoury, poha, vegetarian, Indian
-- Ingredients: thick poha, 3 cups; onion, 1 medium; potato, 1 medium; French beans, 1 handful; capsicum, 1/2; carrot, 1/2; sweet corn, 1/4 cup; green peas, 1/4 cup; oil, 2 tbsp; cumin seeds, 1/2 tsp; mustard seeds, 1/2 tsp; curry leaves, 15; green chilli, chopped, 3; peanuts, 1/4 cup optional; turmeric, 1/2 tsp; lemon juice, 1 lemon; sugar, 1 tsp, then adjust; fresh coriander, 1 handful chopped, plus garnish; salt, to taste, then adjust; hot water, a splash twice.
+- Ingredients: thick poha, 3 cups; onion, 1 medium; potato, 1 medium; French beans, 1 handful; capsicum, 1/2; carrot, 1/2; green peas, 1/4 cup; oil, 2 tbsp; cumin seeds, 1/2 tsp; mustard seeds, 1/2 tsp; curry leaves, 15; green chilli, chopped, 3; peanuts, 1/4 cup optional; turmeric, 1/2 tsp; lemon juice, 1 lemon; sugar, 1 tsp, then adjust; fresh coriander, 1 handful chopped, plus garnish; salt, to taste, then adjust; hot water, a splash twice.
 - Method: Rinse poha; drain and rest 10–15 minutes. Temper oil, cumin, mustard, curry leaves, chilli, and peanuts. Cook potato half-done; add onion until light golden. Add vegetables; cook 1–2 minutes. Add a hot-water splash; cover 3–4 minutes. Add salt and turmeric, then poha, lemon, sugar, and coriander; toss gently. Add second hot-water splash; cover off-heat 3–4 minutes. Garnish coriander.
 - Source: [Your Food Lab — Vegetable Poha](https://www.youtube.com/watch?v=yWkF-2aBDZE&t=139s). On-screen text visually verified from downloaded video.
 
